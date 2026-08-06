@@ -121,7 +121,7 @@ BMW,M2 ,2023," 250,000 ","""Hard to Find""",RARE,A 762,
 Brabham,BT62 ,2019," 1,500,000 ","HW Academy: ""Double Trouble"", Autoshow (DLC: Hot Wheels)",LEGENDARY,S2 974,0
 Bugatti,Type 35 C ,1926," 1,300,000 ","Autoshow, Wheelspin",LEGENDARY,D 285,
 Bugatti,EB110 Super Sport ,1992," 1,700,000 ","Autoshow, Wheelspin",LEGENDARY,S1 805,
-Bugatti,Veyron Super Sport ,2011," 2,200,000 ","Autoshow, ""Like a Boss"" accolade",LEGENDARY,S2 913,0
+Bugatti,Veyron Super Sport ,2011," 2,200,000 ","Autoshow, ""Like a Boss"" accolade",LEGENDARY,S2 913,
 Bugatti,Chiron ,2018," 2,400,000 ","Autoshow, Wheelspin",LEGENDARY,S2 927,0
 Bugatti,Divo ,2019," 3,000,000 ","Autoshow, Wheelspin",LEGENDARY,S2 958,
 Buick,GSX ,1970," 80,000 ","Autoshow, Wheelspin",RARE,C 558,
@@ -294,7 +294,7 @@ Ford,XB Falcon GT ,1973," 250,000 ","""Hard to Find""",RARE,C 532,
 Ford,Bronco ,1975," 38,000 ","Autoshow, Wheelspin",COMMON,D 421,
 Ford,#5 Escort RS1800 MKII ,1977," 300,000 ","Autoshow, Wheelspin",EPIC,B 662,
 Ford,Escort RS1800 ,1977," 88,000 ","Autoshow, Wheelspin",RARE,D 477,
-Ford,Fiesta XR2 ,1981," 25,000 ",Wheelspin,EPIC,D 369,0
+Ford,Fiesta XR2 ,1981," 25,000 ",Wheelspin,EPIC,D 369,
 Ford,RS200 Evolution ,1985," 260,000 ","Autoshow, Wheelspin",EPIC,S1 808,
 Ford,Escort RS Turbo ,1986," 25,000 ","Autoshow, Wheelspin",COMMON,C 516,
 Ford,F-150 XLT Lariat ,1986," 250,000 ","""Hard to Find""",COMMON,D 357,0
@@ -701,7 +701,7 @@ Noble,M400 ,2006," 100,000 ",Autoshow (DLC: Car Pass),RARE,S1 829,
 Noble,M600 ,2010," 450,000 ","""Hard to Find""",EPIC,S1 877,
 Oldsmobile,Toronado ,1966," 35,000 ",Autoshow (DLC: Car Pass),COMMON,D 403,
 Opel,Manta 400 ,1984," 100,000 ","Autoshow, Wheelspin",RARE,B 691,
-Pagani,Zonda Cinque Roadster 'Oreo Edition' ,2009," 2,100,000 ",Gifted (Promotional: Oreo),LEGENDARY,S1 900,-
+Pagani,Zonda Cinque Roadster 'Oreo Edition' ,2009," 2,100,000 ",Gifted (Promotional: Oreo),LEGENDARY,S1 900,1
 Pagani,Zonda R ,2009," 1,800,000 ","Autoshow, Wheelspin",LEGENDARY,S2 959,
 Pagani,Zonda Cinque Roadster ,2010," 2,100,000 ","Autoshow, Wheelspin",LEGENDARY,S1 896,
 Pagani,Huayra Coupe ,2011," 1,400,000 ","""Hard to Find""",LEGENDARY,S1 900,0
