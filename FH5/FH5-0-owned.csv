@@ -311,7 +311,7 @@ Ford,SVT Cobra R ,2000," 55,000 ","Autoshow, Wheelspin",COMMON,B 648,
 Ford,#4 Ford Focus RS ,2001," 200,000 ","Expedition: ""Horizon Badlands Expedition"", Autoshow (DLC: Rally Adventure)",RARE,A 749,
 Ford,F-150 SVT Lightning ,2003," 20,000 ",Autoshow (DLC: Car Pass),COMMON,C 585,
 Ford,Focus RS ,2003," 30,000 ","Autoshow, Wheelspin",COMMON,C 593,
-Ford,Mustang SVT Cobra ,2003," 250,000 ","""Hard to Find""",COMMON,B 639,0
+Ford,Mustang SVT Cobra ,2003," 250,000 ","""Hard to Find""",COMMON,B 639,1
 Ford,GT ,2005," 300,000 ",Wheelspin,EPIC,A 786,
 Ford,Focus RS ,2009," 25,000 ","Autoshow, Wheelspin",COMMON,B 660,
 Ford,Crown Victoria Police Interceptor ,2010," 25,000 ","Autoshow, Wheelspin",COMMON,D 462,
@@ -797,7 +797,7 @@ Renault,Megane R.S. ,2018," 37,000 ","Autoshow, Wheelspin, ""Matryoshka"" accola
 Rimac,Concept Two ,2019," 2,000,000 ","Autoshow, Wheelspin",LEGENDARY,S2 963,
 Rimac,Nevera ,2021," 3,000,000 ",Autoshow,LEGENDARY,S2 968,
 Rivian,R1S ,2022," 250,000 ","""Hard to Find""",RARE,A 726,0
-Rivian,R1T ,2022," 250,000 ","""Hard to Find""",EPIC,A 718,0
+Rivian,R1T ,2022," 250,000 ","""Hard to Find""",EPIC,A 718,1
 RJ Anderson,#37 Polaris RZR-Rockstar Energy Pro 2 Truck ,2016," 500,000 ","Autoshow, Wheelspin",EPIC,A 776,
 RJ Anderson,#37 Polaris RZR Pro 4 Truck ,2021," 500,000 ","Apex Predators: Win ""The Narrows"", Autoshow (DLC: Rally Adventure)",EPIC,A 776,
 Rossion,Q1 ,2010," 250,000 ","""Hard to Find""",EPIC,S1 813,
@@ -813,7 +813,7 @@ SIERRA Cars,#23 Yokohama Alpha ,2020," 70,000 ","HW Academy: ""Hot Wheels Legend
 SIERRA Cars,700R ,2021," 250,000 ","""Hard to Find""",RARE,D 414,0
 SIERRA Cars,RX3 ,2021," 45,000 ","Autoshow, ""Unbeatable Cross-Country Racing"" accolade",RARE,A 737,
 Spania GTA,GTA Spano ,2016," 800,000 ","""Hard to Find""",EPIC,S2 915,0
-SUBARU,BRAT GL ,1980," 250,000 ","""Hard to Find""",COMMON,D 273,0
+SUBARU,BRAT GL ,1980," 250,000 ","""Hard to Find""",COMMON,D 273,1
 SUBARU,Legacy RS ,1990," 250,000 ","""Hard to Find""",COMMON,C 514,0
 SUBARU,SVX ,1996," 250,000 ","""Hard to Find""",COMMON,C 574,0
 SUBARU,Impreza 22B-STi Version ,1998," 110,000 ",Wheelspin,LEGENDARY,B 640,0
