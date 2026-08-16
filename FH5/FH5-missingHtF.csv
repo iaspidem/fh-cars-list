@@ -1,12 +1,8 @@
 ﻿Vehicle, Value ,Collection,Rarity,PI,Owned
 Abarth Fiat 131 (1980)," 250,000 ","""Hard to Find""",COMMON,C 510,0
 Abarth 695 Biposto (2016)," 250,000 ","""Hard to Find""",COMMON,B 657,0
-Alfa Romeo 8C Competizione (2007)," 300,000 ","""Hard to Find""",EPIC,A 755,0
 Alfa Romeo 4C (2014)," 250,000 ","""Hard to Find""",RARE,A 755,0
-Ascari KZ1R (2012)," 250,000 ","""Hard to Find""",EPIC,S1 829,0
 Aston Martin Lagonda (1990)," 250,000 ","""Hard to Find""",RARE,C 502,0
-Aston Martin DBS (2008)," 325,000 ","""Hard to Find""",EPIC,A 746,0
-ATS GT (2018)," 850,000 ","""Hard to Find""",EPIC,S1 877,0
 Audi TT RS Coupe (2020)," 250,000 ","""Hard to Find""",RARE,A 765,0
 Audi RS 6 Avant (2021)," 250,000 ","""Hard to Find""",RARE,A 763,0
 Audi RS 7 Sportback (2021)," 250,000 ","""Hard to Find""",RARE,A 768,0
@@ -19,7 +15,6 @@ BMW i4 eDrive40 (2022)," 250,000 ","""Hard to Find""",RARE,B 633,0
 BMW iX xDrive50 (2022)," 250,000 ","""Hard to Find""",RARE,A 703,0
 BMW M5 CS (2022)," 250,000 ","""Hard to Find""",RARE,S1 827,0
 Cadillac CTS-V Sport Wagon (2014)," 250,000 ","""Hard to Find""",RARE,A 724,0
-Cadillac CT5-V Blackwing (2022)," 250,000 ","""Hard to Find""",RARE,A 799,0
 Chevrolet Nova Super Sport (1966)," 250,000 ","""Hard to Find""",COMMON,C 554,0
 Chevrolet K-10 Custom (1972)," 250,000 ","""Hard to Find""",COMMON,D 369,0
 Chevrolet Corvette Z06 (2023)," 250,000 ","""Hard to Find""",EPIC,S1 855,0
@@ -51,15 +46,12 @@ Ford Mustang SVT Cobra R (1995)," 250,000 ","""Hard to Find""",COMMON,B 625,0
 Ford Mustang SVT Cobra (2003)," 250,000 ","""Hard to Find""",COMMON,B 639,0
 Ford F-150 Raptor R (2023)," 250,000 ","""Hard to Find""",EPIC,B 689,0
 Ford Mustang GT (2024)," 250,000 ","""Hard to Find""",EPIC,A 739,0
-Formula Drift #64 Forsberg Racing Nissan Z (2023)," 300,000 ","""Hard to Find""",EPIC,S1 854,0
 GMC Syclone (1991)," 250,000 ","""Hard to Find""",EPIC,C 548,0
 GMC Typhoon (1992)," 250,000 ","""Hard to Find""",EPIC,C 538,0
 GMC HUMMER EV Pickup (2022)," 250,000 ","""Hard to Find""",EPIC,A 718,0
 Gordon Murray Automotive T.50 (2022)," 2,840,000 ","""Hard to Find""",LEGENDARY,S2 936,0
-Honda NSX-R GT (2005)," 500,000 ","""Hard to Find""",EPIC,A 725,0
 Honda Ridgeline Baja Trophy Truck (2015)," 500,000 ","""Hard to Find""",EPIC,A 703,0
 Hoonigan Gymkhana 10 Ford Hoonicorn Mustang (1965)," 500,000 ","""Hard to Find""",EPIC,S2 952,0
-Hoonigan Gymkhana 9 Ford Focus RS RX (2016)," 500,000 ","""Hard to Find""",LEGENDARY,S1 863,0
 Hot Wheels Pontiac Firebird Trans Am Custom (1970)," 300,000 ","""Hard to Find""",LEGENDARY,S1 894,0
 Hyundai N Vision 74 (2022)," 250,000 ","""Hard to Find""",RARE,A 799,0
 Jaguar XKR-S GT (2015)," 250,000 ","""Hard to Find""",EPIC,A 778,0
@@ -75,23 +67,18 @@ Lincoln Continental (1962)," 250,000 ","""Hard to Find""",EPIC,D 381,0
 Lotus Esprit Turbo (1980)," 250,000 ","""Hard to Find""",RARE,C 538,0
 Lotus 340R (2000)," 250,000 ","""Hard to Find""",RARE,B 700,0
 Lucid Air Sapphire (2023)," 250,000 ","""Hard to Find""",RARE,S1 884,0
-Lynk & Co #100 Cyan Racing 03 (2020)," 250,000 ","""Hard to Find""",RARE,A 800,0
-Maserati 8CTF (1939)," 10,000,000 ","""Hard to Find""",LEGENDARY,B 657,0
 McLaren 12C Coupé (2011)," 250,000 ","""Hard to Find""",EPIC,S1 832,0
 McLaren 650S Spider (2014)," 420,000 ","""Hard to Find""",EPIC,S1 856,0
 McLaren 765LT (2021)," 400,000 ","""Hard to Find""",EPIC,S2 913,0
 McLaren Artura (2023)," 285,000 ","""Hard to Find""",EPIC,S1 860,0
-Mercedes-AMG GT Black Series (2021)," 325,000 ","""Hard to Find""",EPIC,S1 884,0
 Mercedes-Benz E 55 AMG Wagon (2006)," 250,000 ","""Hard to Find""",RARE,B 698,0
 Mercedes-Benz SL 65 AMG Black Series (2009)," 300,000 ","""Hard to Find""",EPIC,A 800,0
 Meyers Manx 2.0 EV (2023)," 250,000 ","""Hard to Find""",EPIC,B 649,0
 MG MG3 (2015)," 250,000 ","""Hard to Find""",RARE,D 444,0
 MG #20 MG6 XPower (2020)," 250,000 ","""Hard to Find""",RARE,A 800,0
-MINI Cooper S Forza Edition (1965)," 500,000 ","""Hard to Find""",FORZA EDITION,A 800,0
 Mitsubishi FTO GP Version R (1998)," 250,000 ","""Hard to Find""",COMMON,C 585,0
 Morgan Aero GT (2018)," 150,000 ","""Hard to Find""",RARE,A 784,0
 Morris Mini-Traveller (1965)," 250,000 ","""Hard to Find""",COMMON,D 100,0
-NIO EP9 (2016)," 1,500,000 ","""Hard to Find""",LEGENDARY,S2 998,0
 Nissan Sentra NISMO (2018)," 250,000 ","""Hard to Find""",COMMON,C 591,0
 Nissan GT-R NISMO (R35) (2020)," 250,000 ","""Hard to Find""",EPIC,S1 846,0
 Nissan Z NISMO (2024)," 250,000 ","""Hard to Find""",EPIC,A 765,0
@@ -115,7 +102,6 @@ SUBARU SVX (1996)," 250,000 ","""Hard to Find""",COMMON,C 574,0
 SUBARU BRZ (2022)," 250,000 ","""Hard to Find""",EPIC,B 673,0
 Toyota Soarer 2.5 GT-T (1997)," 250,000 ","""Hard to Find""",RARE,B 601,0
 Toyota Hilux Arctic Trucks AT38 (2007)," 250,000 ","""Hard to Find""",RARE,D 457,0
-Toyota Land Cruiser Arctic Trucks AT37 (2016)," 250,000 ","""Hard to Find""",RARE,D 404,0
 Toyota 4Runner TRD Pro (2019)," 250,000 ","""Hard to Find""",RARE,C 531,0
 Vauxhall Lotus Carlton (1990)," 250,000 ","""Hard to Find""",RARE,B 635,0
 Volkswagen ID.4 (2021)," 250,000 ","""Hard to Find""",RARE,C 527,0
