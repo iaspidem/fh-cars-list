@@ -219,7 +219,7 @@ Extreme E,#44 X44 ,2022," 700,000 ","""Hard to Find""",RARE,A 748,0
 Extreme E,#5 Veloce Racing ,2022," 700,000 ","""Hard to Find""",RARE,A 748,0
 Extreme E,#55 ACCIONA | Sainz XE Team ,2022," 700,000 ","""Hard to Find""",RARE,A 748,0
 Extreme E,#58 McLaren Racing ,2022," 700,000 ","""Hard to Find""",RARE,A 748,0
-Extreme E,#6 Rosberg X Racing ,2022," 700,000 ","""Hard to Find""",RARE,A 748,0
+Extreme E,#6 Rosberg X Racing ,2022," 700,000 ","""Hard to Find""",RARE,A 748,1
 Extreme E,#99 Chip Ganassi Racing GMC Hummer EV ,2022," 700,000 ",Autoshow,RARE,A 748,0
 Fast and Furious,Chevrolet Impala Super Sport 'Fast X' ,1966," 300,000 ",Autoshow (DLC: Fast X Car Pack),LEGENDARY,S1 836,-
 Fast and Furious,Dodge Charger 'Fast X' ,1970," 300,000 ",Autoshow (DLC: Fast X Car Pack),LEGENDARY,S1 855,-
@@ -385,7 +385,7 @@ Hennessey,Venom GT ,2012," 1,200,000 ","Autoshow, Wheelspin",LEGENDARY,S2 911,
 Hennessey,Camaro Exorcist ,2019," 250,000 ","""A New Era"" accolade",LEGENDARY,S1 857,
 Hennessey,VelociRaptor 6x6 ,2019," 350,000 ","Autoshow, Wheelspin",LEGENDARY,B 634,
 Hennessey,Venom F5 ,2021," 3,000,000 ","HW Academy: ""Fresh Orange Routes"", Autoshow (DLC: Hot Wheels)",LEGENDARY,S2 964,0
-Hennessey,Mammoth 1000 6x6 TRX ,2022," 450,000 ","""Starting the Journey"" accolade",LEGENDARY,B 697,0
+Hennessey,Mammoth 1000 6x6 TRX ,2022," 450,000 ","""Starting the Journey"" accolade",LEGENDARY,B 697,1
 Holden,HQ Monaro GTS 350 ,1973," 75,000 ","Autoshow, Wheelspin",COMMON,C 525,
 Holden,Sandman HQ Panelvan ,1974," 55,000 ","Autoshow, Wheelspin",COMMON,C 501,
 Holden,Torana A9X ,1977," 130,000 ","Autoshow, Wheelspin",RARE,C 517,
@@ -512,10 +512,10 @@ Lamborghini,Huracán STO ,2020," 450,000 ","""Hard to Find""",LEGENDARY,S1 883,
 Lamborghini,SC20 ,2020," 2,500,000 ",Autoshow (DLC: Italian Exotics Car Pack),LEGENDARY,S1 884,-
 Lamborghini,Sián Roadster ,2020," 3,500,000 ",Autoshow,LEGENDARY,S1 881,
 Lamborghini,Aventador LP 780-4 Ultimae ,2021," 250,000 ","""Hard to Find""",LEGENDARY,S1 878,
-Lamborghini,Countach LPI 800-4 ,2021," 2,750,000 ","""Hard to Find""",LEGENDARY,S1 865,0
+Lamborghini,Countach LPI 800-4 ,2021," 2,750,000 ","""Hard to Find""",LEGENDARY,S1 865,1
 Lamborghini,Huracán Sterrato ,2023," 250,000 ","""Master of Worlds"" accolade",LEGENDARY,S1 836,0
 Lamborghini,Huracán Tecnica ,2023," 250,000 ",Autoshow (DLC: Italian Exotics Car Pack),LEGENDARY,S1 850,-
-Lamborghini,Revuelto ,2024," 250,000 ","""Horizon Stadium Circuit Pro"" accolade",LEGENDARY,S2 905,0
+Lamborghini,Revuelto ,2024," 250,000 ","""Horizon Stadium Circuit Pro"" accolade",LEGENDARY,S2 905,1
 Lancia,Fulvia Coupé Rallye 1.6 HF ,1968," 250,000 ","""Hard to Find""",RARE,C 526,0
 Lancia,Stratos HF Stradale ,1974," 550,000 ",Autoshow,RARE,C 590,
 Lancia,037 Stradale ,1982," 750,000 ","""Hard to Find""",RARE,B 647,
@@ -572,7 +572,7 @@ McLaren,F1 ,1993," 15,000,000 ",Wheelspin,LEGENDARY,S1 817,1
 McLaren,F1 GT ,1997," 15,000,000 ","Autoshow, Wheelspin",LEGENDARY,S1 866,
 McLaren,12C Coupé ,2011," 250,000 ","""Hard to Find""",EPIC,S1 832,0
 McLaren,P1 ,2013," 1,350,000 ","Autoshow, Wheelspin",LEGENDARY,S2 928,
-McLaren,650S Spider ,2014," 420,000 ","""Hard to Find""",EPIC,S1 856,0
+McLaren,650S Spider ,2014," 420,000 ","""Hard to Find""",EPIC,S1 856,1
 McLaren,570S Coupé ,2015," 224,000 ","Autoshow, Wheelspin",EPIC,S1 824,
 McLaren,650S Coupé ,2015," 420,000 ","Autoshow, Wheelspin",EPIC,S1 859,
 McLaren,600LT Coupé ,2018," 260,000 ","Autoshow, Wheelspin",EPIC,S1 868,
@@ -606,7 +606,7 @@ Mercedes-Benz,500 E ,1992," 250,000 ","""Hard to Find""",RARE,B 616,
 Mercedes-Benz,AMG CLK GTR ,1998," 2,000,000 ","Autoshow, Wheelspin",LEGENDARY,S1 829,
 Mercedes-Benz,AMG CLK GTR Forza Edition ,1998," 2,250,000 ",Wheelspin,FORZA EDITION,S2 998,
 Mercedes-Benz,E 55 AMG Wagon ,2006," 250,000 ","""Hard to Find""",RARE,B 698,0
-Mercedes-Benz,SL 65 AMG Black Series ,2009," 300,000 ","""Hard to Find""",EPIC,A 800,0
+Mercedes-Benz,SL 65 AMG Black Series ,2009," 300,000 ","""Hard to Find""",EPIC,A 800,1
 Mercedes-Benz,SLS AMG ,2011," 200,000 ","Autoshow, Wheelspin, ""'S2' Class Elite"" accolade",EPIC,S1 804,
 Mercedes-Benz,C 63 AMG Coupé Black Series ,2012," 150,000 ","Autoshow, Wheelspin",RARE,A 768,
 Mercedes-Benz,SLK 55 AMG ,2012," 78,000 ","Autoshow, Wheelspin",RARE,A 740,
@@ -652,10 +652,10 @@ Mitsubishi,Lancer Evolution X GSR ,2008," 43,000 ","Autoshow, Wheelspin, ""'B' C
 Mitsubishi,"Lancer Evolution X GSR ""Welcome Pack"" ",2008," 43,000 ",Autoshow (DLC: Welcome Pack),RARE,A 800,
 Morgan,3 Wheeler ,2014," 50,000 ","Autoshow, Wheelspin",COMMON,D 488,
 Morgan,Aero GT ,2018," 150,000 ","""Hard to Find""",RARE,A 784,0
-Morris,Minor Series II Traveler ,1953," 250,000 ","""Master Explorer"" accolade",COMMON,D 100,0
+Morris,Minor Series II Traveler ,1953," 250,000 ","""Master Explorer"" accolade",COMMON,D 100,1
 Morris,Minor 1000 ,1953," 20,000 ","Autoshow, Wheelspin",COMMON,D 100,
 Morris,Minor 1000 Forza Edition ,1953," 500,000 ",Wheelspin,FORZA EDITION,A 800,
-Morris,Mini-Traveller ,1965," 250,000 ","""Hard to Find""",COMMON,D 100,0
+Morris,Mini-Traveller ,1965," 250,000 ","""Hard to Find""",COMMON,D 100,1
 Mosler,MT900 GT3 ,2006," 500,000 ","HW Academy: ""Zoomies"", Autoshow (DLC: Hot Wheels)",RARE,S2 910,
 Mosler,MT900S ,2010," 320,000 ","Autoshow, Wheelspin",EPIC,S2 919,
 Napier,Napier-Railton ,1933," 1,500,000 ","Autoshow, Wheelspin",LEGENDARY,B 603,
@@ -692,7 +692,7 @@ Nissan,Tsuru ,2010," 250,000 ","""Hard to Find""",LEGENDARY,D 444,
 Nissan,GT-R Black Edition (R35) ,2012," 105,000 ","Autoshow, Wheelspin, ""Teamwork Makes the Dream Work"" accolade",RARE,S1 810,
 Nissan,TITAN Warrior Concept ,2016," 50,000 ","Autoshow, Wheelspin",COMMON,D 486,
 Nissan,GT-R (R35) ,2017," 132,000 ","Autoshow, Wheelspin",RARE,S1 814,
-Nissan,Sentra NISMO ,2018," 250,000 ","""Hard to Find""",COMMON,C 591,0
+Nissan,Sentra NISMO ,2018," 250,000 ","""Hard to Find""",COMMON,C 591,1
 Nissan,370Z NISMO ,2019," 50,000 ",Autoshow (DLC: Car Pass),RARE,A 718,
 Nissan,GT-R NISMO (R35) ,2020," 250,000 ","""Hard to Find""",EPIC,S1 846,0
 Nissan,Z ,2023," 250,000 ","""Hard to Find""",RARE,A 736,
@@ -711,7 +711,7 @@ Pagani,Huayra R ,2021," 3,100,000 ",Autoshow (DLC: Horizon Racing Car Pack),LEGE
 Peel,P50 ,1962," 250,000 ","""Hard to Find""",LEGENDARY,D 100,
 Peel,Trident ,1965," 25,000 ",Autoshow,RARE,D 100,
 Penhall,The Cholla ,2011," 100,000 ","Autoshow, Wheelspin",RARE,B 655,
-Peugeot,205 Turbo 16 ,1984," 200,000 ","Wheelspin, ""Técnicos"" accolade",LEGENDARY,B 616,0
+Peugeot,205 Turbo 16 ,1984," 200,000 ","Wheelspin, ""Técnicos"" accolade",LEGENDARY,B 616,1
 Peugeot,205 Rallye ,1991," 20,000 ","Autoshow, Wheelspin",RARE,D 462,
 Peugeot,207 Super 2000 ,2007," 150,000 ","Autoshow, Wheelspin, ""Tour for the Eyes"" accolade",RARE,A 755,
 Plymouth,Fury ,1958," 250,000 ","""Hard to Find""",RARE,D 477,
@@ -773,7 +773,7 @@ Porsche,Macan Turbo ,2019," 135,000 ","Autoshow, Wheelspin, ""In It to Win It"" 
 Porsche,Taycan Turbo S ,2020," 185,000 ","Autoshow, Wheelspin, ""Discovery Connoisseur"" accolade",COMMON,S1 807,
 Porsche,"Taycan Turbo S ""Welcome Pack"" ",2020," 185,000 ",Autoshow (DLC: Welcome Pack),COMMON,S1 900,
 Porsche,911 GT3 ,2021," 250,000 ","""Hard to Find""",EPIC,S1 858,
-Porsche,Mission R ,2022," 10,000,000 ","""Hard to Find""",LEGENDARY,S2 925,0
+Porsche,Mission R ,2022," 10,000,000 ","""Hard to Find""",LEGENDARY,S2 925,1
 Porsche,718 Cayman GT4 RS ,2022," 150,000 ",Autoshow (DLC: Super Speed Car Pack),EPIC,S1 850,-
 Porsche,911 GT3 R ,2023," 250,000 ","""Hard to Find""",EPIC,S1 890,
 Porsche,911 GT3 RS ,2023," 250,000 ","""Hard to Find""",EPIC,S1 867,
