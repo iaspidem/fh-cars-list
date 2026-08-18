@@ -180,7 +180,7 @@ Czinger,21C ,2024," 2,000,000 ",Autoshow (DLC: American Automotive Car Pack),EPI
 Datsun,510,1970," 25,000 ","Autoshow, Wheelspin",COMMON,D 264,
 DeBerti,Ford Econoline 'Shop Rod' ,1961," 200,000 ",Autoshow (DLC: American Automotive Car Pack),RARE,A 799,-
 DeBerti,Chevrolet C10 'Slayer' ,1965," 250,000 ","""Hard to Find""",RARE,S1 802,0
-DeBerti,Wrangler Unlimited ,2013," 200,000 ",Car Mastery: 2012 Jeep Wrangler Rubicon,EPIC,A 749,
+DeBerti,Wrangler Unlimited ,2018," 200,000 ",Car Mastery: 2012 Jeep Wrangler Rubicon,EPIC,A 749,
 DeBerti,Chevrolet Silverado 1500 Drift Truck ,2018," 300,000 ","Autoshow, Wheelspin",EPIC,A 798,
 DeBerti,F-150 Prerunner ,2018," 250,000 ","Autoshow, Wheelspin, ""Extreme Activity"" accolade",EPIC,B 691,
 DeBerti,Ford Mustang GT ,2018," 500,000 ","""Hard to Find""",EPIC,S1 824,0
@@ -277,7 +277,7 @@ Ford,De Luxe Coupe ,1940," 44,000 ","Autoshow, Wheelspin",COMMON,D 130,
 Ford,Super Deluxe Station Wagon ,1946," 250,000 ","""Hard to Find""",COMMON,D 124,0
 Ford,Anglia 105E ,1959," 20,000 ","Autoshow, Wheelspin",COMMON,D 100,
 Ford,GT40 Mk I ,1964," 11,000,000 ",Car Collector: Ford,LEGENDARY,A 754,
-Ford,F-100 ,1965," 36,000 ",Barn find,LEGENDARY,D 302,
+Ford,F-100 ,1956," 36,000 ",Barn find,LEGENDARY,D 302,
 Ford,Mustang GT Coupe ,1965," 46,000 ","Autoshow, Wheelspin",RARE,D 499,
 Ford,Transit ,1965," 25,000 ","Autoshow, Wheelspin",COMMON,D 100,
 Ford,#2 GT40 Mk II Le Mans ,1966," 11,000,000 ","Autoshow, Wheelspin",LEGENDARY,A 771,
@@ -514,7 +514,7 @@ Lamborghini,Sián Roadster ,2020," 3,500,000 ",Autoshow,LEGENDARY,S1 881,
 Lamborghini,Aventador LP 780-4 Ultimae ,2021," 250,000 ","""Hard to Find""",LEGENDARY,S1 878,
 Lamborghini,Countach LPI 800-4 ,2021," 2,750,000 ","""Hard to Find""",LEGENDARY,S1 865,0
 Lamborghini,Huracán Sterrato ,2023," 250,000 ","""Master of Worlds"" accolade",LEGENDARY,S1 836,0
-Lamborghini,Huracán Tecnica ,2022," 250,000 ",Autoshow (DLC: Italian Exotics Car Pack),LEGENDARY,S1 850,-
+Lamborghini,Huracán Tecnica ,2023," 250,000 ",Autoshow (DLC: Italian Exotics Car Pack),LEGENDARY,S1 850,-
 Lamborghini,Revuelto ,2024," 250,000 ","""Horizon Stadium Circuit Pro"" accolade",LEGENDARY,S2 905,0
 Lancia,Fulvia Coupé Rallye 1.6 HF ,1968," 250,000 ","""Hard to Find""",RARE,C 526,0
 Lancia,Stratos HF Stradale ,1974," 550,000 ",Autoshow,RARE,C 590,
@@ -523,7 +523,7 @@ Lancia,Delta S4 ,1986," 1,000,000 ","""Hard to Find""",RARE,B 682,0
 Lancia,Delta HF Integrale Evo ,1992," 100,000 ",Autoshow,COMMON,B 602,
 Land Rover,Range Rover ,1973," 50,000 ","Autoshow, Wheelspin",COMMON,D 274,
 Land Rover,Defender 90 ,1997," 30,000 ","Autoshow, Wheelspin",COMMON,D 366,
-Land Rover,Series III ,1997," 20,000 ","Autoshow, Wheelspin",COMMON,D 100,
+Land Rover,Series III ,1972," 20,000 ","Autoshow, Wheelspin",COMMON,D 100,
 Land Rover,Range Rover Sport SVR ,2015," 133,000 ","Autoshow, Wheelspin",RARE,A 722,
 Land Rover,Range Rover Velar First Edition ,2018," 85,000 ","Autoshow, Wheelspin",RARE,B 638,
 Land Rover,Defender 110 X ,2020," 80,000 ","Autoshow, Wheelspin",COMMON,C 534,
@@ -643,7 +643,7 @@ Mitsubishi,Lancer Evolution III GSR ,1995," 250,000 ","""Hard to Find""",EPIC,B 
 Mitsubishi,GTO ,1997," 20,000 ","Autoshow, Wheelspin",COMMON,B 610,
 Mitsubishi,Montero Evolution ,1997," 60,000 ",Autoshow (DLC: JDM Jewels Car Pack),EPIC,D 457,
 Mitsubishi,FTO GP Version R ,1998," 250,000 ","""Hard to Find""",COMMON,C 585,0
-Mitsubishi,Starion ESI-R ,1998," 20,000 ","Autoshow, Wheelspin",RARE,C 549,
+Mitsubishi,Starion ESI-R ,1988," 20,000 ","Autoshow, Wheelspin",RARE,C 549,
 Mitsubishi,Lancer Evolution VI GSR ,1999," 28,000 ","Autoshow, Wheelspin",RARE,B 659,
 Mitsubishi,Lancer Evolution VIII MR ,2004," 31,000 ","Autoshow, Wheelspin",RARE,B 664,
 Mitsubishi,#1 Sierra Sierra Enterprises Lancer Evolution Time Attack ,2005," 300,000 ","""Hard to Find""",LEGENDARY,S2 967,
@@ -653,8 +653,8 @@ Mitsubishi,"Lancer Evolution X GSR ""Welcome Pack"" ",2008," 43,000 ",Autoshow (
 Morgan,3 Wheeler ,2014," 50,000 ","Autoshow, Wheelspin",COMMON,D 488,
 Morgan,Aero GT ,2018," 150,000 ","""Hard to Find""",RARE,A 784,0
 Morris,Minor Series II Traveler ,1953," 250,000 ","""Master Explorer"" accolade",COMMON,D 100,0
-Morris,Minor 1000 ,1958," 20,000 ","Autoshow, Wheelspin",COMMON,D 100,
-Morris,Minor 1000 Forza Edition ,1958," 500,000 ",Wheelspin,FORZA EDITION,A 800,
+Morris,Minor 1000 ,1953," 20,000 ","Autoshow, Wheelspin",COMMON,D 100,
+Morris,Minor 1000 Forza Edition ,1953," 500,000 ",Wheelspin,FORZA EDITION,A 800,
 Morris,Mini-Traveller ,1965," 250,000 ","""Hard to Find""",COMMON,D 100,0
 Mosler,MT900 GT3 ,2006," 500,000 ","HW Academy: ""Zoomies"", Autoshow (DLC: Hot Wheels)",RARE,S2 910,
 Mosler,MT900S ,2010," 320,000 ","Autoshow, Wheelspin",EPIC,S2 919,
@@ -684,7 +684,7 @@ Nissan,Silvia Spec-R ,2000," 35,000 ","Autoshow, Wheelspin",COMMON,B 632,
 Nissan,Skyline GT-R V-Spec II ,2002," 63,000 ","Autoshow, Wheelspin",RARE,B 657,
 Nissan,Fairlady Z ,2003," 35,000 ","Autoshow, Wheelspin, ""Fast Track Ticket"" accolade",COMMON,B 650,
 Nissan,Fairlady Z Forza Edition ,2003," 500,000 ",Wheelspin,FORZA EDITION,A 800,
-Nissan,Donut Media 350Z 'Hi Car' ,2004," 250,000 ","""High Five"" accolade",LEGENDARY,A 792,
+Nissan,Donut Media 350Z 'Hi Car' ,2003," 250,000 ","""High Five"" accolade",LEGENDARY,A 792,
 Nissan,Donut Media 350Z 'Low Car' ,2004," 250,000 ","""Low Five"" accolade",LEGENDARY,A 733,
 Nissan,Pickup #23 Rally Raid ,2004," 500,000 ","Autoshow, Wheelspin",EPIC,C 577,
 Nissan,370Z ,2010," 40,000 ","Autoshow, Wheelspin",COMMON,B 688,
@@ -731,14 +731,14 @@ Pontiac,Firebird Trans Am GTA Forza Edition ,1987," 500,000 ",Wheelspin,FORZA ED
 Porsche,#46 356 SL Gmünd Coupe ,1951," 1,000,000 ","""Hard to Find""",LEGENDARY,D 243,0
 Porsche,550 Spyder ,1955," 600,000 ","""Hard to Find""",LEGENDARY,C 514,1
 Porsche,356 A 1600 Super ,1959," 240,000 ","Autoshow, Wheelspin",EPIC,D 241,
-Porsche,356 C Cabriolet Emory Special ,1960," 400,000 ","""Hard to Find""",EPIC,B 651,0
+Porsche,356 C Cabriolet Emory Special ,1964," 400,000 ","""Hard to Find""",EPIC,B 651,0
 Porsche,906 Carrera 6 ,1966," 2,000,000 ",Autoshow,LEGENDARY,A 732,0
 Porsche,#3 917 LH ,1970," 15,000,000 ","Autoshow, Wheelspin",LEGENDARY,S1 856,
 Porsche,914/6 ,1970," 24,000 ","Autoshow, Wheelspin",RARE,D 427,
 Porsche,#23 917/20 ,1971," 15,000,000 ",Autoshow,LEGENDARY,S1 849,
 Porsche,911 Carrera RS ,1973," 350,000 ",Barn find,LEGENDARY,B 601,
 Porsche,911 Turbo 3.3 ,1982," 150,000 ","Autoshow, Wheelspin",EPIC,B 666,
-Porsche,#185 959 Prodrive Rally Raid ,1986," 1,500,000 ","Autoshow, Wheelspin, ""Property Purchase, Great Success"" accolade",LEGENDARY,A 742,
+Porsche,#185 959 Prodrive Rally Raid ,1985," 1,500,000 ","Autoshow, Wheelspin, ""Property Purchase, Great Success"" accolade",LEGENDARY,A 742,
 Porsche,959,1987," 2,000,000 ","Autoshow, Wheelspin",LEGENDARY,A 764,0
 Porsche,"#65 Rothsport Racing 911 ""Desert Flyer"" ",1989," 500,000 ","Autoshow, Wheelspin",EPIC,B 694,
 Porsche,944 Turbo ,1989," 35,000 ","Autoshow, Wheelspin",RARE,B 651,
