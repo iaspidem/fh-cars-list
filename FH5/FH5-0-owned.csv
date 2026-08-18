@@ -105,7 +105,7 @@ BMW,M5 ,2012," 112,000 ","Autoshow, Wheelspin",RARE,A 766,
 BMW,M6 Coupe ,2013," 120,000 ","Autoshow, Wheelspin",RARE,A 758,
 BMW,M4 Coupé ,2014," 92,000 ","Autoshow, Wheelspin",RARE,A 782,
 BMW,i8 ,2015," 140,000 ",Autoshow,RARE,A 764,
-BMW,X6 M ,2015," 130,000 ",Wheelspin,EPIC,B 687,0
+BMW,X6 M ,2015," 130,000 ",Wheelspin,EPIC,B 687,1
 BMW,M2 Coupé ,2016," 69,000 ","Autoshow, Wheelspin",COMMON,A 718,
 BMW,M4 GTS ,2016," 135,000 ",Car Collector: BMW,EPIC,S1 814,
 BMW,#1 M Motorsport M8 GTE ,2018," 313,000 ",Autoshow (DLC: Apex Allstars Car Pack),RARE,S2 910,-
@@ -408,7 +408,7 @@ Honda,Civic Type R ,2018," 59,000 ",Autoshow,RARE,A 727,
 Hoonigan,Chevrolet Bel Air ,1955," 76,000 ","Autoshow, Wheelspin, ""The Odd Chance"" accolade",RARE,B 621,
 Hoonigan,"Ford ""Hoonicorn"" Mustang ",1965," 500,000 ","Autoshow, Wheelspin",EPIC,S2 951,
 Hoonigan,Gymkhana 10 Ford F-150 'Hoonitruck' ,1977," 500,000 ","Autoshow, Wheelspin",EPIC,S1 896,
-Hoonigan,Gymkhana 10 Ford Hoonicorn Mustang ,1965," 500,000 ","""Hard to Find""",EPIC,S2 952,0
+Hoonigan,Gymkhana 10 Ford Hoonicorn Mustang ,1965," 500,000 ","""Hard to Find""",EPIC,S2 952,1
 Hoonigan,Chevrolet Napalm Nova ,1972," 50,000 ","Autoshow, Wheelspin",RARE,A 731,
 Hoonigan,Volkswagen Baja Beetle Class 5/1600 'Scumbug' ,1973," 300,000 ","Horizon Raptors: Win ""Cascade Fuerte"", Autoshow (DLC: Rally Adventure)",RARE,C 524,
 Hoonigan,Ford Escort RS1800 ,1978," 300,000 ","Autoshow, Wheelspin",EPIC,S1 820,
@@ -459,7 +459,7 @@ Jaguar,F-TYPE R Coupé ,2015," 110,000 ",Wheelspin,EPIC,A 777,
 Jaguar,XE-S ,2015," 57,000 ",Autoshow,COMMON,B 671,
 Jaguar,XFR-S ,2015," 110,000 ",Autoshow,RARE,A 728,
 Jaguar,XKR-S GT ,2015," 250,000 ","""Hard to Find""",EPIC,A 778,0
-Jaguar,F-TYPE Project 7 ,2016," 190,000 ","Wheelspin, ""The Serious 7"" accolade",EPIC,A 786,0
+Jaguar,F-TYPE Project 7 ,2016," 190,000 ","Wheelspin, ""The Serious 7"" accolade",EPIC,A 786,1
 Jaguar,F-PACE S ,2017," 55,000 ",Autoshow,COMMON,B 674,
 Jaguar,I-Pace ,2018," 87,000 ","Autoshow, Wheelspin, ""Unbeatable Street Racing"" accolade",RARE,A 705,
 Jaguar,XE SV Project 8 ,2019," 200,000 ",Autoshow (DLC: European Automotive Car Pack),RARE,S1 830,-
@@ -474,9 +474,9 @@ Jimco,#240 Fastball Racing Spec Trophy Truck ,2019," 350,000 ","Apex Predators: 
 Jimco,#179 Hammerhead Class 1 ,2020," 150,000 ","Grit Reapers: Win ""Cráteres Secos"", Autoshow (DLC: Rally Adventure)",RARE,A 763,
 Kia,EV6 GT ,2023," 250,000 ","""Hard to Find""",RARE,A 719,
 Koenigsegg,CC8S ,2002," 400,000 ","Autoshow, Wheelspin",EPIC,S1 846,
-Koenigsegg,CCX ,2006," 600,000 ","""Hard to Find""",LEGENDARY,S1 870,0
-Koenigsegg,CCGT ,2008," 1,000,000 ",Wheelspin,LEGENDARY,S2 965,0
-Koenigsegg,Agera ,2011," 1,500,000 ","""Hard to Find""",LEGENDARY,S1 895,0
+Koenigsegg,CCX ,2006," 600,000 ","""Hard to Find""",LEGENDARY,S1 870,1
+Koenigsegg,CCGT ,2008," 1,000,000 ",Wheelspin,LEGENDARY,S2 965,1
+Koenigsegg,Agera ,2011," 1,500,000 ","""Hard to Find""",LEGENDARY,S1 895,1
 Koenigsegg,One:1 ,2015," 2,800,000 ","Autoshow, Wheelspin",LEGENDARY,S2 983,
 Koenigsegg,Regera ,2016," 1,900,000 ","Autoshow, Wheelspin, ""The Completionist"" accolade",LEGENDARY,S2 966,
 Koenigsegg,Agera RS ,2017," 2,000,000 ","Autoshow, Wheelspin",LEGENDARY,S2 980,0
@@ -545,7 +545,7 @@ Lotus,Esprit V8 ,2002," 250,000 ","""Hard to Find""",RARE,A 731,
 Lotus,2-Eleven ,2009," 250,000 ","""Hard to Find""",EPIC,A 799,
 Lotus,Exige S ,2012," 85,000 ","Autoshow, Wheelspin, ""Skillz"" accolade",RARE,A 754,
 Lotus,3-Eleven ,2016," 150,000 ","Autoshow, Wheelspin",EPIC,S1 839,
-Lotus,Exige Cup 430 ,2018," 250,000 ","""Halfway Point"" accolade",EPIC,S1 833,0
+Lotus,Exige Cup 430 ,2018," 250,000 ","""Halfway Point"" accolade",EPIC,S1 833,1
 Lotus,Evija ,2020," 2,500,000 ","Autoshow, ""Horizon Arcade Fan"" accolade",LEGENDARY,S2 994,0
 Lotus,Emira ,2023," 95,000 ",Autoshow (DLC: Horizon Racing Car Pack),RARE,A 767,-
 Lucid,Air Sapphire ,2023," 250,000 ","""Hard to Find""",RARE,S1 884,0
@@ -624,7 +624,7 @@ Meyers,Manx Forza Edition ,1971," 500,000 ",Wheelspin,FORZA EDITION,A 800,
 Meyers,Manx 2.0 EV ,2023," 250,000 ","""Hard to Find""",EPIC,B 649,0
 MG,Metro 6R4 ,1986," 125,000 ","Wheelspin, ""Rudos"" accolade",LEGENDARY,S1 811,
 MG,XPower SV-R ,2005," 50,000 ",Autoshow (DLC: Car Pass),RARE,B 694,
-MG,MG3 ,2015," 250,000 ","""Hard to Find""",RARE,D 444,0
+MG,MG3 ,2015," 250,000 ","""Hard to Find""",RARE,D 444,1
 MG,#20 MG6 XPower ,2020," 250,000 ","""Hard to Find""",RARE,A 800,0
 MG,MG6 XPower ,2021," 250,000 ","""Hard to Find""",RARE,A 716,
 MG,MG7 ,2022," 250,000 ","""Hard to Find""",RARE,B 636,
@@ -790,7 +790,7 @@ Renault,5 Turbo ,1980," 120,000 ","Autoshow, Wheelspin, ""Finish Stronger"" acco
 Renault,Clio Williams ,1993," 30,000 ","Autoshow, Wheelspin",COMMON,C 511,
 Renault,Mégane R26.R ,2008," 28,000 ","Autoshow, Wheelspin",RARE,B 678,
 Renault,Clio R.S. ,2010," 250,000 ","""Hard to Find""",COMMON,C 592,
-Renault,Megane RS 250 ,2010," 250,000 ","""Hard to Find""",COMMON,B 657,0
+Renault,Megane RS 250 ,2010," 250,000 ","""Hard to Find""",COMMON,B 657,1
 Renault,Clio R.S. 200 EDC ,2013," 29,000 ","Autoshow, Wheelspin",COMMON,C 595,
 Renault,Clio R.S. 16 Concept ,2016," 250,000 ","""Hard to Find""",RARE,B 686,
 Renault,Megane R.S. ,2018," 37,000 ","Autoshow, Wheelspin, ""Matryoshka"" accolade",RARE,B 670,
