@@ -237,22 +237,22 @@ Ferrari,512 S ,1970," 3,500,000 ",Autoshow,LEGENDARY,S1 861,
 Ferrari,288 GTO ,1984," 3,500,000 ","Autoshow, Wheelspin",LEGENDARY,A 750,
 Ferrari,F40 ,1987," 1,200,000 ","Autoshow, Wheelspin",LEGENDARY,A 784,0
 Ferrari,F40 Competizione ,1989," 2,000,000 ",Barn find,LEGENDARY,S2 947,
-Ferrari,512 TR ,1992," 270,000 ","""Hard to Find""",EPIC,A 733,0
+Ferrari,512 TR ,1992," 270,000 ","""Hard to Find""",EPIC,A 733,1
 Ferrari,F355 Berlinetta ,1994," 190,000 ","Autoshow, Wheelspin",EPIC,A 717,
 Ferrari,F50 ,1995," 2,000,000 ","Autoshow, Wheelspin",LEGENDARY,A 789,0
 Ferrari,F50 GT ,1996," 2,000,000 ","Autoshow, Wheelspin",LEGENDARY,S2 976,0
-Ferrari,575M Maranello ,2002," 250,000 ","""Hard to Find""",EPIC,A 747,0
+Ferrari,575M Maranello ,2002," 250,000 ","""Hard to Find""",EPIC,A 747,1
 Ferrari,Enzo Ferrari ,2002," 2,800,000 ","Autoshow, Wheelspin",LEGENDARY,S1 857,
 Ferrari,360 Challenge Stradale ,2003," 200,000 ","Wheelspin, ""Wheels of Experience"" accolade",EPIC,A 773,
 Ferrari,FXX ,2005," 2,500,000 ","Autoshow, Wheelspin",LEGENDARY,S2 956,
 Ferrari,430 Scuderia ,2007," 300,000 ","Autoshow, Wheelspin, ""'A' Class Elite"" accolade",EPIC,S1 810,
 Ferrari,458 Italia ,2009," 225,000 ","Autoshow, Wheelspin",EPIC,S1 823,
-Ferrari,599 GTO ,2010," 350,000 ","""Hard to Find""",EPIC,S1 828,0
+Ferrari,599 GTO ,2010," 350,000 ","""Hard to Find""",EPIC,S1 828,1
 Ferrari,599XX ,2010," 2,000,000 ",Autoshow,LEGENDARY,S2 924,
 Ferrari,599XX Evolution ,2012," 2,600,000 ","Autoshow, Wheelspin",LEGENDARY,S2 952,0
 Ferrari,458 Speciale ,2013," 340,000 ",Wheelspin,EPIC,S1 865,
 Ferrari,LaFerrari ,2013," 1,500,000 ",Car Collector: Ferrari,LEGENDARY,S2 934,
-Ferrari,California T ,2014," 250,000 ","""Hard to Find""",EPIC,A 784,0
+Ferrari,California T ,2014," 250,000 ","""Hard to Find""",EPIC,A 784,1
 Ferrari,FXX K ,2014," 2,700,000 ","Autoshow, Wheelspin",LEGENDARY,S2 979,0
 Ferrari,488 GTB ,2015," 290,000 ","Autoshow, Wheelspin",EPIC,S1 863,
 Ferrari,F12tdf ,2015," 500,000 ","Autoshow, Wheelspin",EPIC,S1 884,
@@ -264,17 +264,17 @@ Ferrari,FXX-K Evo ,2018," 3,000,000 ",Autoshow (DLC: Car Pass),LEGENDARY,S2 998,
 Ferrari,Portofino ,2018," 215,000 ","Autoshow, Wheelspin",EPIC,S1 814,
 Ferrari,#62 Risi Competizione 488 GTE ,2019," 313,000 ",Autoshow (DLC: Apex Allstars Car Pack),RARE,S2 910,-
 Ferrari,488 Pista ,2019," 320,000 ","Autoshow, Wheelspin",EPIC,S1 889,
-Ferrari,F8 Tributo ,2019," 750,000 ","""Hard to Find""",LEGENDARY,S1 891,0
+Ferrari,F8 Tributo ,2019," 750,000 ","""Hard to Find""",LEGENDARY,S1 891,1
 Ferrari,Monza SP2 ,2019," 2,000,000 ",Autoshow (DLC: Car Pass),LEGENDARY,S1 867,
 Ferrari,Roma ,2020," 300,000 ",Autoshow (DLC: Italian Exotics Car Pack),EPIC,S1 830,-
-Ferrari,SF90 Stradale ,2020," 750,000 ","""Hard to Find""",LEGENDARY,S2 915,0
+Ferrari,SF90 Stradale ,2020," 750,000 ","""Hard to Find""",LEGENDARY,S2 915,1
 Ferrari,296 GTB ,2022," 300,000 ",Autoshow (DLC: Italian Exotics Car Pack),EPIC,S1 892,-
 FIAT,Dino 2.4 Coupe ,1969," 250,000 ","""Hard to Find""",RARE,D 498,0
 FIAT,124 Sport Spider ,1980," 25,000 ",Autoshow,COMMON,D 288,
 Ford,De Luxe Five-Window Coupe ,1932," 35,000 ","Autoshow, Wheelspin",COMMON,D 126,
 Ford,De Luxe Five-Window Coupe Forza Edition ,1932," 294,000 ",Gifted (DLC: Forza Horizon 5 Limited Edition Xbox Controller),FORZA EDITION,A 800,-
 Ford,De Luxe Coupe ,1940," 44,000 ","Autoshow, Wheelspin",COMMON,D 130,
-Ford,Super Deluxe Station Wagon ,1946," 250,000 ","""Hard to Find""",COMMON,D 124,0
+Ford,Super Deluxe Station Wagon ,1946," 250,000 ","""Hard to Find""",COMMON,D 124,1
 Ford,Anglia 105E ,1959," 20,000 ","Autoshow, Wheelspin",COMMON,D 100,
 Ford,GT40 Mk I ,1964," 11,000,000 ",Car Collector: Ford,LEGENDARY,A 754,
 Ford,F-100 ,1956," 36,000 ",Barn find,LEGENDARY,D 302,
@@ -297,7 +297,7 @@ Ford,Escort RS1800 ,1977," 88,000 ","Autoshow, Wheelspin",RARE,D 477,
 Ford,Fiesta XR2 ,1981," 25,000 ",Wheelspin,EPIC,D 369,
 Ford,RS200 Evolution ,1985," 260,000 ","Autoshow, Wheelspin",EPIC,S1 808,
 Ford,Escort RS Turbo ,1986," 25,000 ","Autoshow, Wheelspin",COMMON,C 516,
-Ford,F-150 XLT Lariat ,1986," 250,000 ","""Hard to Find""",COMMON,D 357,0
+Ford,F-150 XLT Lariat ,1986," 250,000 ","""Hard to Find""",COMMON,D 357,1
 Ford,Mustang SVO ,1986," 15,000 ",Autoshow (DLC: Car Pass),COMMON,C 525,
 Ford,Sierra Cosworth RS500 ,1987," 66,000 ","Autoshow, Wheelspin",RARE,B 604,
 Ford,Escort RS Cosworth ,1992," 66,000 ","Autoshow, Wheelspin",RARE,C 565,
@@ -375,10 +375,10 @@ Funco Motorsports,F9 ,2018," 500,000 ","Wheelspin, ""Unlimited Prowess!"" accola
 Ginetta,G10 RM ,2019," 500,000 ",Autoshow (DLC: Acceleration Car Pack),EPIC,A 769,-
 GMC,Jimmy ,1970," 75,000 ",Barn find,LEGENDARY,C 521,
 GMC,Vandura G-1500 ,1983," 25,000 ","Autoshow, Wheelspin",COMMON,D 226,
-GMC,Syclone ,1991," 250,000 ","""Hard to Find""",EPIC,C 548,0
-GMC,Typhoon ,1992," 250,000 ","""Hard to Find""",EPIC,C 538,0
+GMC,Syclone ,1991," 250,000 ","""Hard to Find""",EPIC,C 548,1
+GMC,Typhoon ,1992," 250,000 ","""Hard to Find""",EPIC,C 538,1
 GMC,"""Barbie Movie"" HUMMER EV Pickup ",2022," 250,000 ",Autoshow,EPIC,A 718,
-GMC,HUMMER EV Pickup ,2022," 250,000 ","""Hard to Find""",EPIC,A 718,0
+GMC,HUMMER EV Pickup ,2022," 250,000 ","""Hard to Find""",EPIC,A 718,1
 Gordon Murray Automotive,T.50 ,2022," 2,840,000 ","""Hard to Find""",LEGENDARY,S2 936,1
 HDT,VK Commodore Group A ,1985," 250,000 ","""Hard to Find""",RARE,C 550,
 Hennessey,Venom GT ,2012," 1,200,000 ","Autoshow, Wheelspin",LEGENDARY,S2 911,
@@ -390,7 +390,7 @@ Holden,HQ Monaro GTS 350 ,1973," 75,000 ","Autoshow, Wheelspin",COMMON,C 525,
 Holden,Sandman HQ Panelvan ,1974," 55,000 ","Autoshow, Wheelspin",COMMON,C 501,
 Holden,Torana A9X ,1977," 130,000 ","Autoshow, Wheelspin",RARE,C 517,
 Honda,Civic RS ,1974," 25,000 ",Autoshow,COMMON,D 368,
-Honda,Civic CRX Mugen ,1984," 40,000 ",Midnight Battle 2,EPIC,D 499,0
+Honda,Civic CRX Mugen ,1984," 40,000 ",Midnight Battle 2,EPIC,D 499,1
 Honda,CR-X SiR ,1991," 20,000 ",Autoshow,COMMON,C 534,
 Honda,NSX-R ,1992," 90,000 ","Autoshow, Wheelspin",EPIC,B 691,
 Honda,Prelude Si ,1994," 20,000 ",Autoshow,COMMON,C 521,
@@ -401,7 +401,7 @@ Honda,NSX-R ,2005," 150,000 ","Autoshow, Wheelspin, ""Built for Speed"" accolade
 Honda,NSX-R GT ,2005," 500,000 ","""Hard to Find""",EPIC,A 725,1
 Honda,Civic Type R ,2007," 20,000 ","Autoshow, ""Fast Track"" accolade",COMMON,C 574,
 Honda,S2000 CR ,2009," 25,000 ","Autoshow, Wheelspin",COMMON,B 634,
-Honda,Ridgeline Baja Trophy Truck ,2015," 500,000 ","""Hard to Find""",EPIC,A 703,0
+Honda,Ridgeline Baja Trophy Truck ,2015," 500,000 ","""Hard to Find""",EPIC,A 703,1
 Honda,Civic Coupe ,2016," 155,000 ","""Hard to Find""",EPIC,S1 861,
 Honda,Civic Type R ,2016," 38,000 ",Autoshow,COMMON,B 699,
 Honda,Civic Type R ,2018," 59,000 ",Autoshow,RARE,A 727,
@@ -422,7 +422,7 @@ Hoonigan,Gymkhana 9 Ford Focus RS RX ,2016," 500,000 ","""Hard to Find""",LEGEND
 Hot Wheels,Ford F-5 Dually Custom Hot Rod ,1949," 250,000 ","HW Academy: ""Chapter 2: The Iconic Orange Track"" (DLC: Hot Wheels), Wheelspin",LEGENDARY,B 630,
 Hot Wheels,Nash Metropolitan Custom ,1957," 250,000 ","HW Academy: ""Chapter 1: The Beginning"" (DLC: Hot Wheels), Wheelspin",LEGENDARY,B 631,
 Hot Wheels,Twin Mill ,1969," 110,000 ",Wheelspin,LEGENDARY,A 798,1
-Hot Wheels,Pontiac Firebird Trans Am Custom ,1970," 300,000 ","""Hard to Find""",LEGENDARY,S1 894,0
+Hot Wheels,Pontiac Firebird Trans Am Custom ,1970," 300,000 ","""Hard to Find""",LEGENDARY,S1 894,1
 Hot Wheels,Deora II ,2000," 500,000 ","HW Academy: ""Here We Pro"", Autoshow (DLC: Hot Wheels)",LEGENDARY,A 800,
 Hot Wheels,Ford Mustang ,2005," 300,000 ","HW Academy: ""Chapter 5: Hot Wheels Today"" (DLC: Hot Wheels), Wheelspin",LEGENDARY,S1 819,
 Hot Wheels,Bone Shaker ,2011," 150,000 ","Autoshow, Wheelspin, ""Reach for the Stars"" accolade",LEGENDARY,A 790,
