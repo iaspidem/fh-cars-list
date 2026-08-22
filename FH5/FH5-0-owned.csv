@@ -211,13 +211,13 @@ Eagle,Speedster ,2012," 550,000 ","""Hard to Find""",LEGENDARY,A 723,
 Elemental,RP1 ,2019," 150,000 ",Autoshow (DLC: Super Speed Car Pack),RARE,S1 867,-
 Exomotive,Exocet Off-Road ,2018," 50,000 ","Autoshow, Wheelspin",RARE,B 682,
 Exomotive,Exocet Off-Road Forza Edition ,2018," 500,000 ",Wheelspin,FORZA EDITION,A 800,
-Extreme E,#125 ABT Cupra XE ,2022," 700,000 ","""Hard to Find""",RARE,A 748,0
-Extreme E,#22 JBXE ,2022," 700,000 ","""Hard to Find""",RARE,A 748,0
-Extreme E,#23 Genesys Andretti United ,2022," 700,000 ","""Hard to Find""",RARE,A 748,0
+Extreme E,#125 ABT Cupra XE ,2022," 700,000 ","""Hard to Find""",RARE,A 748,1
+Extreme E,#22 JBXE ,2022," 700,000 ","""Hard to Find""",RARE,A 748,1
+Extreme E,#23 Genesys Andretti United ,2022," 700,000 ","""Hard to Find""",RARE,A 748,1
 Extreme E,#42 XITE Racing Team ,2022," 700,000 ","""Hard to Find""",RARE,A 748,1
-Extreme E,#44 X44 ,2022," 700,000 ","""Hard to Find""",RARE,A 748,0
+Extreme E,#44 X44 ,2022," 700,000 ","""Hard to Find""",RARE,A 748,1
 Extreme E,#5 Veloce Racing ,2022," 700,000 ","""Hard to Find""",RARE,A 748,1
-Extreme E,#55 ACCIONA | Sainz XE Team ,2022," 700,000 ","""Hard to Find""",RARE,A 748,0
+Extreme E,#55 ACCIONA | Sainz XE Team ,2022," 700,000 ","""Hard to Find""",RARE,A 748,1
 Extreme E,#58 McLaren Racing ,2022," 700,000 ","""Hard to Find""",RARE,A 748,1
 Extreme E,#6 Rosberg X Racing ,2022," 700,000 ","""Hard to Find""",RARE,A 748,1
 Extreme E,#99 Chip Ganassi Racing GMC Hummer EV ,2022," 700,000 ",Autoshow,RARE,A 748,0
@@ -269,7 +269,7 @@ Ferrari,Monza SP2 ,2019," 2,000,000 ",Autoshow (DLC: Car Pass),LEGENDARY,S1 867,
 Ferrari,Roma ,2020," 300,000 ",Autoshow (DLC: Italian Exotics Car Pack),EPIC,S1 830,-
 Ferrari,SF90 Stradale ,2020," 750,000 ","""Hard to Find""",LEGENDARY,S2 915,1
 Ferrari,296 GTB ,2022," 300,000 ",Autoshow (DLC: Italian Exotics Car Pack),EPIC,S1 892,-
-FIAT,Dino 2.4 Coupe ,1969," 250,000 ","""Hard to Find""",RARE,D 498,0
+FIAT,Dino 2.4 Coupe ,1969," 250,000 ","""Hard to Find""",RARE,D 498,1
 FIAT,124 Sport Spider ,1980," 25,000 ",Autoshow,COMMON,D 288,
 Ford,De Luxe Five-Window Coupe ,1932," 35,000 ","Autoshow, Wheelspin",COMMON,D 126,
 Ford,De Luxe Five-Window Coupe Forza Edition ,1932," 294,000 ",Gifted (DLC: Forza Horizon 5 Limited Edition Xbox Controller),FORZA EDITION,A 800,-
@@ -304,7 +304,7 @@ Ford,Escort RS Cosworth ,1992," 66,000 ","Autoshow, Wheelspin",RARE,C 565,
 Ford,SVT Cobra R ,1993," 28,000 ","Autoshow, Wheelspin",COMMON,C 539,
 Ford,Supervan 3 ,1994," 500,000 ","Autoshow, Wheelspin",EPIC,S1 820,
 Ford,Supervan 3 'Donut Media Edition' ,1994," 500,000 ","""Under 3 Minutes or it's Free!"" accolade",DONUT EDITION,S1 900,
-Ford,Mustang SVT Cobra R ,1995," 250,000 ","""Hard to Find""",COMMON,B 625,0
+Ford,Mustang SVT Cobra R ,1995," 250,000 ","""Hard to Find""",COMMON,B 625,1
 Ford,Racing Puma ,1999," 20,000 ","Autoshow, Wheelspin",RARE,C 514,
 Ford,Racing Puma Forza Edition ,1999," 500,000 ",Gifted (DLC: VIP Membership),FORZA EDITION,S1 900,
 Ford,SVT Cobra R ,2000," 55,000 ","Autoshow, Wheelspin",COMMON,B 648,
@@ -343,14 +343,14 @@ Ford,Mustang Shelby GT500 ,2020," 100,000 ","Autoshow, ""'D' Class Elite"" accol
 Ford,Super Duty F-450 DRW Platinum ,2020," 70,000 ","Autoshow, Wheelspin",COMMON,D 466,
 Ford,Bronco ,2021," 55,000 ",Autoshow,RARE,C 560,
 Ford,Mustang Mach-E 1400 ,2021," 750,000 ","Horizon Story: Complete ""Drift Club Mexico""",LEGENDARY,S1 900,
-Ford,Bronco Raptor ,2022," 250,000 ","""Dedication to the Cause"" accolade",EPIC,C 588,0
+Ford,Bronco Raptor ,2022," 250,000 ","""Dedication to the Cause"" accolade",EPIC,C 588,1
 Ford,F-150 Lightning Platinum ,2022," 100,000 ","Grit Reapers: Win ""Horizon Badlands Goliath"", Autoshow (DLC: Rally Adventure)",EPIC,B 607,
 Ford,Focus ST ,2022," 250,000 ","""Hard to Find""",COMMON,A 707,
 Ford,Supervan 4 ,2022," 2,000,000 ",Autoshow (DLC: Acceleration Car Pack),EPIC,S2 953,-
-Ford,F-150 Raptor R ,2023," 250,000 ","""Hard to Find""",EPIC,B 689,0
+Ford,F-150 Raptor R ,2023," 250,000 ","""Hard to Find""",EPIC,B 689,1
 Ford,Fiesta ST ,2023," 250,000 ","""Hard to Find""",COMMON,B 615,
 Ford,Mustang Dark Horse ,2024," 250,000 ","""Hard to Find""",EPIC,A 772,
-Ford,Mustang GT ,2024," 250,000 ","""Hard to Find""",EPIC,A 739,0
+Ford,Mustang GT ,2024," 250,000 ","""Hard to Find""",EPIC,A 739,1
 Formula Drift,#98 BMW 325i ,1989," 300,000 ","Autoshow, Wheelspin",EPIC,S1 813,
 Formula Drift,#34 Toyota Supra MkIV ,1995," 300,000 ",Autoshow (DLC: Formula Drift Pack),EPIC,S1 845,
 Formula Drift,#51 Donut Media Nissan 240SX ,1996," 250,000 ","""Sweet Drift"" accolade",EPIC,S1 822,
@@ -438,7 +438,7 @@ Hyundai,i30 N ,2020," 250,000 ","""Hard to Find""",RARE,B 670,
 Hyundai,#98 Bryan Herta Autosport Elantra N ,2021," 250,000 ","""Hard to Find""",RARE,A 800,
 Hyundai,IONIQ6 ,2022," 250,000 ","""Hard to Find""",RARE,B 686,
 Hyundai,Kona N ,2022," 250,000 ","""Hard to Find""",RARE,B 684,
-Hyundai,N Vision 74 ,2022," 250,000 ","""Hard to Find""",RARE,A 799,0
+Hyundai,N Vision 74 ,2022," 250,000 ","""Hard to Find""",RARE,A 799,1
 Hyundai,IONIQ 5 N ,2023," 250,000 ","""Hard to Find""",RARE,A 756,
 Infiniti,Q60 Concept ,2015," 50,000 ","Autoshow, Wheelspin",COMMON,A 735,
 International,Scout 800A ,1970," 40,000 ","Autoshow, Wheelspin",COMMON,D 384,
@@ -458,12 +458,12 @@ Jaguar,XKR-S ,2012," 100,000 ",Autoshow,RARE,A 756,
 Jaguar,F-TYPE R Coupé ,2015," 110,000 ",Wheelspin,EPIC,A 777,
 Jaguar,XE-S ,2015," 57,000 ",Autoshow,COMMON,B 671,
 Jaguar,XFR-S ,2015," 110,000 ",Autoshow,RARE,A 728,
-Jaguar,XKR-S GT ,2015," 250,000 ","""Hard to Find""",EPIC,A 778,0
+Jaguar,XKR-S GT ,2015," 250,000 ","""Hard to Find""",EPIC,A 778,1
 Jaguar,F-TYPE Project 7 ,2016," 190,000 ","Wheelspin, ""The Serious 7"" accolade",EPIC,A 786,1
 Jaguar,F-PACE S ,2017," 55,000 ",Autoshow,COMMON,B 674,
 Jaguar,I-Pace ,2018," 87,000 ","Autoshow, Wheelspin, ""Unbeatable Street Racing"" accolade",RARE,A 705,
 Jaguar,XE SV Project 8 ,2019," 200,000 ",Autoshow (DLC: European Automotive Car Pack),RARE,S1 830,-
-Jaguar,F-TYPE SVR ,2020," 250,000 ","""Hard to Find""",RARE,S1 806,0
+Jaguar,F-TYPE SVR ,2020," 250,000 ","""Hard to Find""",RARE,S1 806,1
 Jeep,CJ5 Renegade ,1976," 60,000 ","Autoshow, Wheelspin",COMMON,D 431,
 Jeep,Wrangler Rubicon ,2012," 50,000 ","Autoshow, Wheelspin",COMMON,D 463,
 Jeep,Grand Cherokee SRT ,2014," 80,000 ","Autoshow, Wheelspin",COMMON,B 680,
@@ -482,7 +482,7 @@ Koenigsegg,Regera ,2016," 1,900,000 ","Autoshow, Wheelspin, ""The Completionist"
 Koenigsegg,Agera RS ,2017," 2,000,000 ","Autoshow, Wheelspin",LEGENDARY,S2 980,0
 Koenigsegg,Jesko ,2020," 2,800,000 ","Autoshow, Wheelspin, ""Cinema Irréaliste"" accolade",LEGENDARY,S2 971,
 KTM,X-Bow R ,2013," 105,000 ","Autoshow, Wheelspin",RARE,S1 802,
-KTM,X-Bow GT4 ,2018," 400,000 ","""Hard to Find""",EPIC,S1 845,0
+KTM,X-Bow GT4 ,2018," 400,000 ","""Hard to Find""",EPIC,S1 845,1
 KTM,X-Bow GT2 ,2020," 500,000 ",Autoshow (DLC: Super Speed Car Pack),EPIC,S2 931,-
 Lamborghini,Miura P400 ,1967," 1,000,000 ","Autoshow, Wheelspin",LEGENDARY,B 625,
 Lamborghini,Espada 400 GT ,1973," 110,000 ",Autoshow (DLC: Car Pass),RARE,C 597,
@@ -503,7 +503,7 @@ Lamborghini,Huracán LP 610-4 ,2014," 240,000 ","Autoshow, Wheelspin",EPIC,S1 838
 Lamborghini,Aventador Superveloce ,2016," 480,000 ","Autoshow, Wheelspin, ""Eliminating Spree"" accolade",EPIC,S1 872,
 Lamborghini,Centenario LP 770-4 ,2016," 2,300,000 ","Autoshow, Wheelspin",LEGENDARY,S1 884,
 Lamborghini,#63 Squadra Corse Huracán Super Trofeo Evo ,2018," 400,000 ",Autoshow (DLC: Italian Exotics Car Pack),LEGENDARY,S2 906,-
-Lamborghini,Aventador SVJ ,2018," 500,000 ","""Hard to Find""",LEGENDARY,S1 889,0
+Lamborghini,Aventador SVJ ,2018," 500,000 ","""Hard to Find""",LEGENDARY,S1 889,1
 Lamborghini,Huracán Performante ,2018," 275,000 ","Autoshow, Wheelspin",EPIC,S1 874,
 Lamborghini,Urus ,2019," 150,000 ","Autoshow, Wheelspin, ""Rampage"" accolade",RARE,A 767,
 Lamborghini,Essenza SCV12 ,2020," 5,000,000 ",Autoshow (DLC: Italian Exotics Car Pack),LEGENDARY,S2 967,-
@@ -513,13 +513,13 @@ Lamborghini,SC20 ,2020," 2,500,000 ",Autoshow (DLC: Italian Exotics Car Pack),LE
 Lamborghini,Sián Roadster ,2020," 3,500,000 ",Autoshow,LEGENDARY,S1 881,
 Lamborghini,Aventador LP 780-4 Ultimae ,2021," 250,000 ","""Hard to Find""",LEGENDARY,S1 878,
 Lamborghini,Countach LPI 800-4 ,2021," 2,750,000 ","""Hard to Find""",LEGENDARY,S1 865,1
-Lamborghini,Huracán Sterrato ,2023," 250,000 ","""Master of Worlds"" accolade",LEGENDARY,S1 836,0
+Lamborghini,Huracán Sterrato ,2023," 250,000 ","""Master of Worlds"" accolade",LEGENDARY,S1 836,1
 Lamborghini,Huracán Tecnica ,2023," 250,000 ",Autoshow (DLC: Italian Exotics Car Pack),LEGENDARY,S1 850,-
 Lamborghini,Revuelto ,2024," 250,000 ","""Horizon Stadium Circuit Pro"" accolade",LEGENDARY,S2 905,1
-Lancia,Fulvia Coupé Rallye 1.6 HF ,1968," 250,000 ","""Hard to Find""",RARE,C 526,0
+Lancia,Fulvia Coupé Rallye 1.6 HF ,1968," 250,000 ","""Hard to Find""",RARE,C 526,1
 Lancia,Stratos HF Stradale ,1974," 550,000 ",Autoshow,RARE,C 590,
 Lancia,037 Stradale ,1982," 750,000 ","""Hard to Find""",RARE,B 647,
-Lancia,Delta S4 ,1986," 1,000,000 ","""Hard to Find""",RARE,B 682,0
+Lancia,Delta S4 ,1986," 1,000,000 ","""Hard to Find""",RARE,B 682,1
 Lancia,Delta HF Integrale Evo ,1992," 100,000 ",Autoshow,COMMON,B 602,
 Land Rover,Range Rover ,1973," 50,000 ","Autoshow, Wheelspin",COMMON,D 274,
 Land Rover,Defender 90 ,1997," 30,000 ","Autoshow, Wheelspin",COMMON,D 366,
@@ -533,14 +533,14 @@ Lexus,RC F ,2015," 75,000 ","Autoshow, Wheelspin, ""Unbeatable Road Racing"" acc
 Lexus,#14 VASSER SULLIVAN RC F GT3 ,2020," 295,000 ",Autoshow (DLC: Apex Allstars Car Pack),RARE,S1 890,-
 Lexus,RC F Track Edition ,2020," 100,000 ",Autoshow (DLC: Car Pass),RARE,A 777,
 Lexus,LC 500 ,2021," 250,000 ","""Hard to Find""",RARE,A 719,
-Lincoln,Continental ,1962," 250,000 ","""Hard to Find""",EPIC,D 381,0
+Lincoln,Continental ,1962," 250,000 ","""Hard to Find""",EPIC,D 381,1
 Local Motors,Rally Fighter ,2014," 100,000 ","Autoshow, Wheelspin, ""Unbeatable Dirt Racing"" accolade",RARE,A 716,
 Lola,#6 Penske Sunoco T70 MkIIIB ,1969," 850,000 ","Autoshow, Wheelspin, ""Road Racing's Biggest Fan"" accolade",EPIC,S1 818,
 Lotus,Elan Sprint ,1971," 57,000 ","Autoshow, Wheelspin",COMMON,D 443,
-Lotus,Esprit Turbo ,1980," 250,000 ","""Hard to Find""",RARE,C 538,0
+Lotus,Esprit Turbo ,1980," 250,000 ","""Hard to Find""",RARE,C 538,1
 Lotus,Elise GT1 ,1997," 1,800,000 ","Autoshow, Wheelspin",LEGENDARY,A 794,
 Lotus,Elise Series 1 Sport 190 ,1999," 81,000 ","Autoshow, Wheelspin",COMMON,A 711,
-Lotus,340R ,2000," 250,000 ","""Hard to Find""",RARE,B 700,0
+Lotus,340R ,2000," 250,000 ","""Hard to Find""",RARE,B 700,1
 Lotus,Esprit V8 ,2002," 250,000 ","""Hard to Find""",RARE,A 731,
 Lotus,2-Eleven ,2009," 250,000 ","""Hard to Find""",EPIC,A 799,
 Lotus,Exige S ,2012," 85,000 ","Autoshow, Wheelspin, ""Skillz"" accolade",RARE,A 754,
@@ -548,7 +548,7 @@ Lotus,3-Eleven ,2016," 150,000 ","Autoshow, Wheelspin",EPIC,S1 839,
 Lotus,Exige Cup 430 ,2018," 250,000 ","""Halfway Point"" accolade",EPIC,S1 833,1
 Lotus,Evija ,2020," 2,500,000 ","Autoshow, ""Horizon Arcade Fan"" accolade",LEGENDARY,S2 994,0
 Lotus,Emira ,2023," 95,000 ",Autoshow (DLC: Horizon Racing Car Pack),RARE,A 767,-
-Lucid,Air Sapphire ,2023," 250,000 ","""Hard to Find""",RARE,S1 884,0
+Lucid,Air Sapphire ,2023," 250,000 ","""Hard to Find""",RARE,S1 884,1
 Lynk & Co,#100 Cyan Racing 03 ,2020," 250,000 ","""Hard to Find""",RARE,A 800,1
 Lynk & Co,03+ ,2021," 40,000 ",Autoshow,COMMON,B 679,
 Lynk & Co,02 Hatchback ,2022," 250,000 ","""Hard to Find""",RARE,B 637,
@@ -570,7 +570,7 @@ Mazda,MX-5 ,2016," 35,000 ","Autoshow, Wheelspin",COMMON,B 620,
 Mazda,MX-5 Miata RF ,2022," 250,000 ","""Hard to Find""",EPIC,B 626,
 McLaren,F1 ,1993," 15,000,000 ",Wheelspin,LEGENDARY,S1 817,1
 McLaren,F1 GT ,1997," 15,000,000 ","Autoshow, Wheelspin",LEGENDARY,S1 866,
-McLaren,12C Coupé ,2011," 250,000 ","""Hard to Find""",EPIC,S1 832,0
+McLaren,12C Coupé ,2011," 250,000 ","""Hard to Find""",EPIC,S1 832,1
 McLaren,P1 ,2013," 1,350,000 ","Autoshow, Wheelspin",LEGENDARY,S2 928,
 McLaren,650S Spider ,2014," 420,000 ","""Hard to Find""",EPIC,S1 856,1
 McLaren,570S Coupé ,2015," 224,000 ","Autoshow, Wheelspin",EPIC,S1 824,
@@ -582,9 +582,9 @@ McLaren,720S Spider ,2019," 340,000 ","Autoshow, Wheelspin",EPIC,S1 887,
 McLaren,Speedtail ,2019," 2,250,000 ","Autoshow, Wheelspin",LEGENDARY,S2 910,
 McLaren,GT ,2020," 210,000 ",Autoshow,COMMON,S1 823,
 McLaren,620R ,2021," 400,000 ",Autoshow (DLC: Car Pass),EPIC,S1 864,
-McLaren,765LT ,2021," 400,000 ","""Hard to Find""",EPIC,S2 913,0
+McLaren,765LT ,2021," 400,000 ","""Hard to Find""",EPIC,S2 913,1
 McLaren,Sabre ,2021," 4,000,000 ",Autoshow (DLC: Acceleration Car Pack),EPIC,S1 887,-
-McLaren,Artura ,2023," 285,000 ","""Hard to Find""",EPIC,S1 860,0
+McLaren,Artura ,2023," 285,000 ","""Hard to Find""",EPIC,S1 860,1
 Mercedes-AMG,GT S ,2015," 250,000 ","""Hard to Find""",RARE,A 797,
 Mercedes-AMG,C 63 S Coupé ,2016," 90,000 ","Autoshow, Wheelspin",RARE,A 755,
 Mercedes-AMG,GT R ,2017," 295,000 ","Autoshow, Wheelspin",EPIC,S1 837,
@@ -605,7 +605,7 @@ Mercedes-Benz,190E 2.5-16 Evolution II ,1990," 150,000 ","Autoshow, Wheelspin",R
 Mercedes-Benz,500 E ,1992," 250,000 ","""Hard to Find""",RARE,B 616,
 Mercedes-Benz,AMG CLK GTR ,1998," 2,000,000 ","Autoshow, Wheelspin",LEGENDARY,S1 829,
 Mercedes-Benz,AMG CLK GTR Forza Edition ,1998," 2,250,000 ",Wheelspin,FORZA EDITION,S2 998,
-Mercedes-Benz,E 55 AMG Wagon ,2006," 250,000 ","""Hard to Find""",RARE,B 698,0
+Mercedes-Benz,E 55 AMG Wagon ,2006," 250,000 ","""Hard to Find""",RARE,B 698,1
 Mercedes-Benz,SL 65 AMG Black Series ,2009," 300,000 ","""Hard to Find""",EPIC,A 800,1
 Mercedes-Benz,SLS AMG ,2011," 200,000 ","Autoshow, Wheelspin, ""'S2' Class Elite"" accolade",EPIC,S1 804,
 Mercedes-Benz,C 63 AMG Coupé Black Series ,2012," 150,000 ","Autoshow, Wheelspin",RARE,A 768,
@@ -621,11 +621,11 @@ Mercedes-Benz,X-Class ,2018," 65,000 ","Autoshow, Wheelspin",COMMON,D 368,
 Mercury,Cyclone Spoiler ,1970," 35,000 ",Autoshow (DLC: Car Pass),RARE,D 491,
 Meyers,Manx ,1971," 35,000 ",Wheelspin,EPIC,D 291,
 Meyers,Manx Forza Edition ,1971," 500,000 ",Wheelspin,FORZA EDITION,A 800,
-Meyers,Manx 2.0 EV ,2023," 250,000 ","""Hard to Find""",EPIC,B 649,0
+Meyers,Manx 2.0 EV ,2023," 250,000 ","""Hard to Find""",EPIC,B 649,1
 MG,Metro 6R4 ,1986," 125,000 ","Wheelspin, ""Rudos"" accolade",LEGENDARY,S1 811,
 MG,XPower SV-R ,2005," 50,000 ",Autoshow (DLC: Car Pass),RARE,B 694,
 MG,MG3 ,2015," 250,000 ","""Hard to Find""",RARE,D 444,1
-MG,#20 MG6 XPower ,2020," 250,000 ","""Hard to Find""",RARE,A 800,0
+MG,#20 MG6 XPower ,2020," 250,000 ","""Hard to Find""",RARE,A 800,1
 MG,MG6 XPower ,2021," 250,000 ","""Hard to Find""",RARE,A 716,
 MG,MG7 ,2022," 250,000 ","""Hard to Find""",RARE,B 636,
 MG,Cyberster ,2023," 90,000 ",Autoshow (DLC: Chinese Lucky Stars Car Pack),RARE,A 767,-
@@ -642,7 +642,7 @@ Mitsubishi,Eclipse GSX ,1995," 25,000 ","Autoshow, Wheelspin",COMMON,C 543,
 Mitsubishi,Lancer Evolution III GSR ,1995," 250,000 ","""Hard to Find""",EPIC,B 632,
 Mitsubishi,GTO ,1997," 20,000 ","Autoshow, Wheelspin",COMMON,B 610,
 Mitsubishi,Montero Evolution ,1997," 60,000 ",Autoshow (DLC: JDM Jewels Car Pack),EPIC,D 457,
-Mitsubishi,FTO GP Version R ,1998," 250,000 ","""Hard to Find""",COMMON,C 585,0
+Mitsubishi,FTO GP Version R ,1998," 250,000 ","""Hard to Find""",COMMON,C 585,1
 Mitsubishi,Starion ESI-R ,1988," 20,000 ","Autoshow, Wheelspin",RARE,C 549,
 Mitsubishi,Lancer Evolution VI GSR ,1999," 28,000 ","Autoshow, Wheelspin",RARE,B 659,
 Mitsubishi,Lancer Evolution VIII MR ,2004," 31,000 ","Autoshow, Wheelspin",RARE,B 664,
@@ -651,7 +651,7 @@ Mitsubishi,Lancer Evolution IX MR ,2006," 27,000 ","Autoshow, Wheelspin",RARE,B 
 Mitsubishi,Lancer Evolution X GSR ,2008," 43,000 ","Autoshow, Wheelspin, ""'B' Class Elite"" accolade",COMMON,B 649,
 Mitsubishi,"Lancer Evolution X GSR ""Welcome Pack"" ",2008," 43,000 ",Autoshow (DLC: Welcome Pack),RARE,A 800,
 Morgan,3 Wheeler ,2014," 50,000 ","Autoshow, Wheelspin",COMMON,D 488,
-Morgan,Aero GT ,2018," 150,000 ","""Hard to Find""",RARE,A 784,0
+Morgan,Aero GT ,2018," 150,000 ","""Hard to Find""",RARE,A 784,1
 Morris,Minor Series II Traveler ,1953," 250,000 ","""Master Explorer"" accolade",COMMON,D 100,1
 Morris,Minor 1000 ,1953," 20,000 ","Autoshow, Wheelspin",COMMON,D 100,
 Morris,Minor 1000 Forza Edition ,1953," 500,000 ",Wheelspin,FORZA EDITION,A 800,
@@ -694,9 +694,9 @@ Nissan,TITAN Warrior Concept ,2016," 50,000 ","Autoshow, Wheelspin",COMMON,D 486
 Nissan,GT-R (R35) ,2017," 132,000 ","Autoshow, Wheelspin",RARE,S1 814,
 Nissan,Sentra NISMO ,2018," 250,000 ","""Hard to Find""",COMMON,C 591,1
 Nissan,370Z NISMO ,2019," 50,000 ",Autoshow (DLC: Car Pass),RARE,A 718,
-Nissan,GT-R NISMO (R35) ,2020," 250,000 ","""Hard to Find""",EPIC,S1 846,0
+Nissan,GT-R NISMO (R35) ,2020," 250,000 ","""Hard to Find""",EPIC,S1 846,1
 Nissan,Z ,2023," 250,000 ","""Hard to Find""",RARE,A 736,
-Nissan,Z NISMO ,2024," 250,000 ","""Hard to Find""",EPIC,A 765,0
+Nissan,Z NISMO ,2024," 250,000 ","""Hard to Find""",EPIC,A 765,1
 Noble,M400 ,2006," 100,000 ",Autoshow (DLC: Car Pass),RARE,S1 829,
 Noble,M600 ,2010," 450,000 ","""Hard to Find""",EPIC,S1 877,
 Oldsmobile,Toronado ,1966," 35,000 ",Autoshow (DLC: Car Pass),COMMON,D 403,
@@ -704,7 +704,7 @@ Opel,Manta 400 ,1984," 100,000 ","Autoshow, Wheelspin",RARE,B 691,
 Pagani,Zonda Cinque Roadster 'Oreo Edition' ,2009," 2,100,000 ",Gifted (Promotional: Oreo),LEGENDARY,S1 900,1
 Pagani,Zonda R ,2009," 1,800,000 ","Autoshow, Wheelspin",LEGENDARY,S2 959,
 Pagani,Zonda Cinque Roadster ,2010," 2,100,000 ","Autoshow, Wheelspin",LEGENDARY,S1 896,
-Pagani,Huayra Coupe ,2011," 1,400,000 ","""Hard to Find""",LEGENDARY,S1 900,0
+Pagani,Huayra Coupe ,2011," 1,400,000 ","""Hard to Find""",LEGENDARY,S1 900,1
 Pagani,Huayra BC Coupe ,2016," 2,700,000 ",Wheelspin,LEGENDARY,S2 929,
 Pagani,Huayra BC Forza Edition ,2016," 2,700,000 ",Wheelspin,FORZA EDITION,S2 998,
 Pagani,Huayra R ,2021," 3,100,000 ",Autoshow (DLC: Horizon Racing Car Pack),LEGENDARY,S2 985,-
@@ -720,18 +720,18 @@ Plymouth,Barracuda Formula-S ,1968," 250,000 ","""Hard to Find""",RARE,C 550,
 Plymouth,Cuda 426 HEMI ,1971," 160,000 ","Autoshow, Wheelspin",EPIC,C 547,
 Polaris,RZR XP 1000 EPS ,2015," 25,000 ","Autoshow, Wheelspin",COMMON,C 501,
 Polaris,RZR Pro XP Factory Racing Limited Edition ,2021," 75,000 ","Horizon Raptors: Win ""Raptor Race!"", Autoshow (DLC: Rally Adventure)",RARE,C 516,
-Polaris,RZR Pro XP Ultimate ,2021," 250,000 ","""Hard to Find""",RARE,C 593,0
+Polaris,RZR Pro XP Ultimate ,2021," 250,000 ","""Hard to Find""",RARE,C 593,1
 Pontiac,GTO ,1965," 48,000 ","Autoshow, Wheelspin",COMMON,D 484,
-Pontiac,Firebird ,1968," 250,000 ","""Hard to Find""",EPIC,C 533,0
-Pontiac,GTO Judge ,1969," 250,000 ","""Hard to Find""",RARE,C 545,0
+Pontiac,Firebird ,1968," 250,000 ","""Hard to Find""",EPIC,C 533,1
+Pontiac,GTO Judge ,1969," 250,000 ","""Hard to Find""",RARE,C 545,1
 Pontiac,Firebird Trans Am SD-455 ,1973," 250,000 ","""Hard to Find""",COMMON,C 551,
 Pontiac,Firebird Trans Am ,1977," 45,000 ","Autoshow, Wheelspin",RARE,D 418,
 Pontiac,Firebird Trans Am GTA ,1987," 25,000 ","Autoshow, Wheelspin",COMMON,D 485,
 Pontiac,Firebird Trans Am GTA Forza Edition ,1987," 500,000 ",Wheelspin,FORZA EDITION,S1 900,
-Porsche,#46 356 SL Gmünd Coupe ,1951," 1,000,000 ","""Hard to Find""",LEGENDARY,D 243,0
+Porsche,#46 356 SL Gmünd Coupe ,1951," 1,000,000 ","""Hard to Find""",LEGENDARY,D 243,1
 Porsche,550 Spyder ,1955," 600,000 ","""Hard to Find""",LEGENDARY,C 514,1
 Porsche,356 A 1600 Super ,1959," 240,000 ","Autoshow, Wheelspin",EPIC,D 241,
-Porsche,356 C Cabriolet Emory Special ,1964," 400,000 ","""Hard to Find""",EPIC,B 651,0
+Porsche,356 C Cabriolet Emory Special ,1964," 400,000 ","""Hard to Find""",EPIC,B 651,1
 Porsche,906 Carrera 6 ,1966," 2,000,000 ",Autoshow,LEGENDARY,A 732,0
 Porsche,#3 917 LH ,1970," 15,000,000 ","Autoshow, Wheelspin",LEGENDARY,S1 856,
 Porsche,914/6 ,1970," 24,000 ","Autoshow, Wheelspin",RARE,D 427,
@@ -796,7 +796,7 @@ Renault,Clio R.S. 16 Concept ,2016," 250,000 ","""Hard to Find""",RARE,B 686,
 Renault,Megane R.S. ,2018," 37,000 ","Autoshow, Wheelspin, ""Matryoshka"" accolade",RARE,B 670,
 Rimac,Concept Two ,2019," 2,000,000 ","Autoshow, Wheelspin",LEGENDARY,S2 963,
 Rimac,Nevera ,2021," 3,000,000 ",Autoshow,LEGENDARY,S2 968,
-Rivian,R1S ,2022," 250,000 ","""Hard to Find""",RARE,A 726,0
+Rivian,R1S ,2022," 250,000 ","""Hard to Find""",RARE,A 726,1
 Rivian,R1T ,2022," 250,000 ","""Hard to Find""",EPIC,A 718,1
 RJ Anderson,#37 Polaris RZR-Rockstar Energy Pro 2 Truck ,2016," 500,000 ","Autoshow, Wheelspin",EPIC,A 776,
 RJ Anderson,#37 Polaris RZR Pro 4 Truck ,2021," 500,000 ","Apex Predators: Win ""The Narrows"", Autoshow (DLC: Rally Adventure)",EPIC,A 776,
@@ -810,13 +810,13 @@ Shelby,Cobra 427 S/C ,1965," 2,100,000 ","Autoshow, Wheelspin",LEGENDARY,B 694,
 Shelby,Cobra Daytona Coupé ,1965," 30,000,000 ","Autoshow, Wheelspin, ""The One With the Hairy Chest"" accolade",LEGENDARY,B 637,
 Shelby,GT 500 ,1967," 250,000 ",Autoshow (DLC: Acceleration Car Pack),EPIC,C 577,-
 SIERRA Cars,#23 Yokohama Alpha ,2020," 70,000 ","HW Academy: ""Hot Wheels Legend"", Autoshow (DLC: Hot Wheels)",EPIC,S2 986,0
-SIERRA Cars,700R ,2021," 250,000 ","""Hard to Find""",RARE,D 414,0
+SIERRA Cars,700R ,2021," 250,000 ","""Hard to Find""",RARE,D 414,1
 SIERRA Cars,RX3 ,2021," 45,000 ","Autoshow, ""Unbeatable Cross-Country Racing"" accolade",RARE,A 737,
-Spania GTA,GTA Spano ,2016," 800,000 ","""Hard to Find""",EPIC,S2 915,0
+Spania GTA,GTA Spano ,2016," 800,000 ","""Hard to Find""",EPIC,S2 915,1
 SUBARU,BRAT GL ,1980," 250,000 ","""Hard to Find""",COMMON,D 273,1
-SUBARU,Legacy RS ,1990," 250,000 ","""Hard to Find""",COMMON,C 514,0
-SUBARU,SVX ,1996," 250,000 ","""Hard to Find""",COMMON,C 574,0
-SUBARU,Impreza 22B-STi Version ,1998," 110,000 ",Wheelspin,LEGENDARY,B 640,0
+SUBARU,Legacy RS ,1990," 250,000 ","""Hard to Find""",COMMON,C 514,1
+SUBARU,SVX ,1996," 250,000 ","""Hard to Find""",COMMON,C 574,1
+SUBARU,Impreza 22B-STi Version ,1998," 110,000 ",Wheelspin,LEGENDARY,B 640,1
 SUBARU,Impreza WRX STi ,2004," 28,000 ","Autoshow, Wheelspin",COMMON,B 652,
 SUBARU,Impreza WRX STi ,2005," 51,000 ","Autoshow, Wheelspin",COMMON,B 669,
 SUBARU,Impreza WRX STI ,2008," 31,000 ","Autoshow, Wheelspin",RARE,B 649,
@@ -825,7 +825,7 @@ SUBARU,BRZ ,2013," 32,000 ","Autoshow, Wheelspin",COMMON,C 581,
 SUBARU,WRX STI ,2015," 42,000 ","Autoshow, Wheelspin",COMMON,B 675,
 SUBARU,WRX STI ARX Supercar ,2018," 500,000 ","HW Academy: ""Green Thrill Zone"", Autoshow (DLC: Hot Wheels)",COMMON,S1 849,
 SUBARU,STI S209 ,2019," 70,000 ",Autoshow (DLC: Car Pass),COMMON,B 689,
-SUBARU,BRZ ,2022," 250,000 ","""Hard to Find""",EPIC,B 673,0
+SUBARU,BRZ ,2022," 250,000 ","""Hard to Find""",EPIC,B 673,1
 SUBARU,WRX ,2022," 250,000 ","""Hard to Find""",EPIC,B 663,
 Toyota,Sports 800 ,1965," 250,000 ","""Hard to Find""",RARE,D 246,
 Toyota,2000GT ,1969," 750,000 ","Autoshow, Wheelspin",EPIC,D 487,
@@ -840,14 +840,14 @@ Toyota,Supra 2.0 GT ,1992," 20,000 ","Autoshow, ""Trials and Tribulations"" acco
 Toyota,#1 T100 Baja Truck ,1993," 500,000 ",Barn find,LEGENDARY,B 693,
 Toyota,Celica GT-Four ST205 ,1994," 20,000 ","Wheelspin, ""Icebreaker"" accolade",EPIC,C 590,
 Toyota,MR2 GT ,1995," 250,000 ","""Hard to Find""",RARE,B 632,
-Toyota,Soarer 2.5 GT-T ,1997," 250,000 ","""Hard to Find""",RARE,B 601,0
+Toyota,Soarer 2.5 GT-T ,1997," 250,000 ","""Hard to Find""",RARE,B 601,1
 Toyota,Supra RZ ,1998," 38,000 ","Autoshow, Wheelspin",RARE,B 646,
 Toyota,"Supra RZ ""Welcome Pack"" ",1998," 38,000 ",Autoshow (DLC: Welcome Pack),COMMON,A 800,
 Toyota,Celica Sport Specialty II ,2003," 250,000 ",Midnight Battle 3,RARE,C 557,
-Toyota,Hilux Arctic Trucks AT38 ,2007," 250,000 ","""Hard to Find""",RARE,D 457,0
+Toyota,Hilux Arctic Trucks AT38 ,2007," 250,000 ","""Hard to Find""",RARE,D 457,1
 Toyota,86,2013," 28,800 ","Autoshow, Wheelspin",RARE,C 579,
 Toyota,Land Cruiser Arctic Trucks AT37 ,2016," 250,000 ","""Hard to Find""",RARE,D 404,1
-Toyota,4Runner TRD Pro ,2019," 250,000 ","""Hard to Find""",RARE,C 531,0
+Toyota,4Runner TRD Pro ,2019," 250,000 ","""Hard to Find""",RARE,C 531,1
 Toyota,Tacoma TRD Pro ,2019," 50,000 ",Autoshow (DLC: Car Pass),RARE,C 518,
 Toyota,GR Supra ,2020," 55,000 ",Autoshow,RARE,A 731,
 Toyota,Tundra TRD Pro ,2020," 60,000 ",Autoshow (DLC: Car Pass),RARE,C 562,
@@ -863,11 +863,11 @@ Universal Studios,Back to the Future Time Machine 2 ,1981," 1,000,000 ",Autoshow
 Universal Studios,Back to the Future Time Machine 3 ,1981," 1,000,000 ",Autoshow (DLC: Universal Icons Car Pack),LEGENDARY,D 335,
 Universal Studios,K.I.T.T. ,1982," 1,000,000 ",Autoshow (DLC: Universal Icons Car Pack),LEGENDARY,A 743,
 Universal Studios,Jeep Wrangler Sahara 'Jurassic Park' ,1992," 1,000,000 ",Autoshow (DLC: Universal Icons Car Pack),LEGENDARY,D 344,
-Vauxhall,Lotus Carlton ,1990," 250,000 ","""Hard to Find""",RARE,B 635,0
+Vauxhall,Lotus Carlton ,1990," 250,000 ","""Hard to Find""",RARE,B 635,1
 Vauxhall,Monaro VXR ,2005," 25,000 ","Autoshow, Wheelspin",COMMON,B 696,
 Vauxhall,Corsa VXR ,2016," 28,000 ","Autoshow, Wheelspin",COMMON,C 584,
 Volkswagen,Beetle ,1963," 20,000 ","""Safe Hands"" accolade",LEGENDARY,D 100,
-Volkswagen,Beetle Forza Edition ,1963," 500,000 ","""Flexibility Beats Everything"" accolade",FORZA EDITION,S1 900,0
+Volkswagen,Beetle Forza Edition ,1963," 500,000 ","""Flexibility Beats Everything"" accolade",FORZA EDITION,S1 900,1
 Volkswagen,Type 2 De Luxe ,1963," 40,000 ",Autoshow,RARE,D 100,
 Volkswagen,Double Cab Pick-Up ,1966," 250,000 ","""Hard to Find""",RARE,D 100,
 Volkswagen,Class 5/1600 Baja Bug ,1969," 60,000 ","Autoshow, Wheelspin",RARE,D 349,
@@ -887,14 +887,14 @@ Volkswagen,Santana ,2012," 20,000 ",Autoshow (DLC: Chinese Lucky Stars Car Pack)
 Volkswagen,Golf R ,2014," 50,000 ","Autoshow, Wheelspin",COMMON,B 663,
 Volkswagen,#34 Volkswagen Andretti Rallycross Beetle ,2017," 500,000 ","Autoshow, Wheelspin",EPIC,S1 851,
 Volkswagen,Golf R ,2021," 65,000 ",Autoshow (DLC: Car Pass),COMMON,B 668,
-Volkswagen,ID.4 ,2021," 250,000 ","""Hard to Find""",RARE,C 527,0
+Volkswagen,ID.4 ,2021," 250,000 ","""Hard to Find""",RARE,C 527,1
 Volkswagen,Golf R ,2022," 50,000 ",Autoshow (DLC: Super Speed Car Pack),RARE,B 672,-
 Volvo,242 Turbo Evolution ,1983," 45,000 ","Autoshow, Wheelspin",COMMON,C 548,
 Volvo,850 R ,1997," 25,000 ","Autoshow, Wheelspin",COMMON,C 511,
 Volvo,C30 Polestar ,2013," 250,000 ","""Hard to Find""",RARE,B 626,
 Volvo,V60 Polestar ,2015," 62,000 ","Autoshow, Wheelspin, ""Quality Assurance"" accolade",COMMON,B 662,
 VUHL,05RR ,2017," 100,000 ","Autoshow, Wheelspin",EPIC,S1 886,
-W Motors,Lykan HyperSport ,2016," 3,000,000 ","""Hard to Find""",LEGENDARY,S1 877,0
+W Motors,Lykan HyperSport ,2016," 3,000,000 ","""Hard to Find""",LEGENDARY,S1 877,1
 Willys,MB Jeep ,1945," 40,000 ","Autoshow, Wheelspin",COMMON,D 198,
 Wuling,Sunshine S ,2013," 250,000 ","""Hard to Find""",RARE,D 207,
 Wuling,Hongguang Mini EV Macaron ,2022," 25,000 ",Autoshow (DLC: Chinese Lucky Stars Car Pack),RARE,D 136,-
