@@ -228,19 +228,19 @@ Fast and Furious,Dodge Charger SRT Hellcat Redeye Widebody 'Fast X' ,2022," 120,
 Fast and Furious,Flip Car 2.0 'Fast X' ,2022," 300,000 ",Autoshow (DLC: Fast X Car Pack),LEGENDARY,S1 815,-
 Ferrari,250 California ,1957," 18,500,000 ","Autoshow, Wheelspin",LEGENDARY,C 564,
 Ferrari,250 Testa Rossa ,1957," 16,400,000 ","Autoshow, Wheelspin",LEGENDARY,B 691,
-Ferrari,250 GT Berlinetta Lusso ,1962," 2,600,000 ",Autoshow,LEGENDARY,C 590,0
+Ferrari,250 GT Berlinetta Lusso ,1962," 2,600,000 ",Autoshow,LEGENDARY,C 590,1
 Ferrari,250 GTO ,1962," 50,000,000 ",Barn find,LEGENDARY,B 612,
 Ferrari,#24 Ferrari Spa 330 P4 ,1967," 9,000,000 ","Autoshow, Wheelspin",LEGENDARY,A 780,
 Ferrari,365 GTB/4 ,1968," 600,000 ","Autoshow, Wheelspin",EPIC,B 637,
 Ferrari,Dino 246 GT ,1969," 425,000 ",Wheelspin,EPIC,C 535,
 Ferrari,512 S ,1970," 3,500,000 ",Autoshow,LEGENDARY,S1 861,
 Ferrari,288 GTO ,1984," 3,500,000 ","Autoshow, Wheelspin",LEGENDARY,A 750,
-Ferrari,F40 ,1987," 1,200,000 ","Autoshow, Wheelspin",LEGENDARY,A 784,0
+Ferrari,F40 ,1987," 1,200,000 ","Autoshow, Wheelspin",LEGENDARY,A 784,1
 Ferrari,F40 Competizione ,1989," 2,000,000 ",Barn find,LEGENDARY,S2 947,
 Ferrari,512 TR ,1992," 270,000 ","""Hard to Find""",EPIC,A 733,1
 Ferrari,F355 Berlinetta ,1994," 190,000 ","Autoshow, Wheelspin",EPIC,A 717,
-Ferrari,F50 ,1995," 2,000,000 ","Autoshow, Wheelspin",LEGENDARY,A 789,0
-Ferrari,F50 GT ,1996," 2,000,000 ","Autoshow, Wheelspin",LEGENDARY,S2 976,0
+Ferrari,F50 ,1995," 2,000,000 ","Autoshow, Wheelspin",LEGENDARY,A 789,1
+Ferrari,F50 GT ,1996," 2,000,000 ","Autoshow, Wheelspin",LEGENDARY,S2 976,1
 Ferrari,575M Maranello ,2002," 250,000 ","""Hard to Find""",EPIC,A 747,1
 Ferrari,Enzo Ferrari ,2002," 2,800,000 ","Autoshow, Wheelspin",LEGENDARY,S1 857,
 Ferrari,360 Challenge Stradale ,2003," 200,000 ","Wheelspin, ""Wheels of Experience"" accolade",EPIC,A 773,
@@ -479,7 +479,7 @@ Koenigsegg,CCGT ,2008," 1,000,000 ",Wheelspin,LEGENDARY,S2 965,1
 Koenigsegg,Agera ,2011," 1,500,000 ","""Hard to Find""",LEGENDARY,S1 895,1
 Koenigsegg,One:1 ,2015," 2,800,000 ","Autoshow, Wheelspin",LEGENDARY,S2 983,
 Koenigsegg,Regera ,2016," 1,900,000 ","Autoshow, Wheelspin, ""The Completionist"" accolade",LEGENDARY,S2 966,
-Koenigsegg,Agera RS ,2017," 2,000,000 ","Autoshow, Wheelspin",LEGENDARY,S2 980,0
+Koenigsegg,Agera RS ,2017," 2,000,000 ","Autoshow, Wheelspin",LEGENDARY,S2 980,1
 Koenigsegg,Jesko ,2020," 2,800,000 ","Autoshow, Wheelspin, ""Cinema Irréaliste"" accolade",LEGENDARY,S2 971,
 KTM,X-Bow R ,2013," 105,000 ","Autoshow, Wheelspin",RARE,S1 802,
 KTM,X-Bow GT4 ,2018," 400,000 ","""Hard to Find""",EPIC,S1 845,1
@@ -732,17 +732,17 @@ Porsche,#46 356 SL Gmünd Coupe ,1951," 1,000,000 ","""Hard to Find""",LEGENDARY,
 Porsche,550 Spyder ,1955," 600,000 ","""Hard to Find""",LEGENDARY,C 514,1
 Porsche,356 A 1600 Super ,1959," 240,000 ","Autoshow, Wheelspin",EPIC,D 241,
 Porsche,356 C Cabriolet Emory Special ,1964," 400,000 ","""Hard to Find""",EPIC,B 651,1
-Porsche,906 Carrera 6 ,1966," 2,000,000 ",Autoshow,LEGENDARY,A 732,0
+Porsche,906 Carrera 6 ,1966," 2,000,000 ",Autoshow,LEGENDARY,A 732,1
 Porsche,#3 917 LH ,1970," 15,000,000 ","Autoshow, Wheelspin",LEGENDARY,S1 856,
 Porsche,914/6 ,1970," 24,000 ","Autoshow, Wheelspin",RARE,D 427,
 Porsche,#23 917/20 ,1971," 15,000,000 ",Autoshow,LEGENDARY,S1 849,
 Porsche,911 Carrera RS ,1973," 350,000 ",Barn find,LEGENDARY,B 601,
 Porsche,911 Turbo 3.3 ,1982," 150,000 ","Autoshow, Wheelspin",EPIC,B 666,
 Porsche,#185 959 Prodrive Rally Raid ,1985," 1,500,000 ","Autoshow, Wheelspin, ""Property Purchase, Great Success"" accolade",LEGENDARY,A 742,
-Porsche,959,1987," 2,000,000 ","Autoshow, Wheelspin",LEGENDARY,A 764,0
+Porsche,959,1987," 2,000,000 ","Autoshow, Wheelspin",LEGENDARY,A 764,1
 Porsche,"#65 Rothsport Racing 911 ""Desert Flyer"" ",1989," 500,000 ","Autoshow, Wheelspin",EPIC,B 694,
 Porsche,944 Turbo ,1989," 35,000 ","Autoshow, Wheelspin",RARE,B 651,
-Porsche,911 Reimagined by Singer - DLS ,1990," 1,800,000 ",Autoshow,EPIC,S1 830,0
+Porsche,911 Reimagined by Singer - DLS ,1990," 1,800,000 ",Autoshow,EPIC,S1 830,1
 Porsche,968 Turbo S ,1993," 140,000 ","Autoshow, Wheelspin",RARE,A 701,
 Porsche,911 Carrera 2 by Gunther Werks ,1995," 575,000 ","""Hard to Find""",EPIC,S1 804,
 Porsche,911 GT2 ,1995," 550,000 ","Autoshow, Wheelspin",EPIC,A 753,
