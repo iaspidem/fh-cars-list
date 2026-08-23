@@ -8,7 +8,7 @@ Acura,RSX Type-S ,2002," 25,000 ",Autoshow,COMMON,C 585,
 Acura,NSX ,2017," 170,000 ",Autoshow,RARE,S1 831,
 Alfa Romeo,Giulia Sprint GTA Stradale ,1965," 300,000 ",Autoshow,RARE,D 486,
 Alfa Romeo,Giulia TZ2 ,1965," 4,000,000 ",Autoshow,LEGENDARY,B 641,1
-Alfa Romeo,33 Stradale ,1968," 15,000,000 ",Autoshow,LEGENDARY,A 707,0
+Alfa Romeo,33 Stradale ,1968," 15,000,000 ",Autoshow,LEGENDARY,A 707,1
 Alfa Romeo,155 Q4 ,1992," 250,000 ","""Hard to Find""",COMMON,C 561,
 Alfa Romeo,8C Competizione ,2007," 300,000 ","""Hard to Find""",EPIC,A 755,1
 Alfa Romeo,4C ,2014," 250,000 ","""Hard to Find""",RARE,A 755,1
@@ -444,7 +444,7 @@ Infiniti,Q60 Concept ,2015," 50,000 ","Autoshow, Wheelspin",COMMON,A 735,
 International,Scout 800A ,1970," 40,000 ","Autoshow, Wheelspin",COMMON,D 384,
 Italdesign,Zerouno ,2018," 2,400,000 ",Autoshow,LEGENDARY,S1 869,1
 Italdesign,DaVinci Concept ,2019," 150,000 ",Autoshow (DLC: Italian Exotics Car Pack),RARE,S1 809,-
-Jaguar,C-Type ,1953," 5,000,000 ",Autoshow,LEGENDARY,C 599,0
+Jaguar,C-Type ,1953," 5,000,000 ",Autoshow,LEGENDARY,C 599,1
 Jaguar,D-Type ,1956," 22,000,000 ","Autoshow, Wheelspin, ""Sold Out"" accolade",LEGENDARY,B 630,1
 Jaguar,Mk II 3.8 ,1959," 80,000 ",Autoshow,EPIC,D 448,
 Jaguar,E-type ,1961," 150,000 ",Autoshow,EPIC,C 525,
@@ -554,7 +554,7 @@ Lynk & Co,03+ ,2021," 40,000 ",Autoshow,COMMON,B 679,
 Lynk & Co,02 Hatchback ,2022," 250,000 ","""Hard to Find""",RARE,B 637,
 Lynk & Co,05+ ,2022," 42,000 ",Autoshow (DLC: Chinese Lucky Stars Car Pack),RARE,B 622,-
 Maserati,8CTF ,1939," 10,000,000 ","""Hard to Find""",LEGENDARY,B 657,1
-Maserati,MC12 Versione Corsa ,2008," 2,500,000 ","Autoshow, Wheelspin",LEGENDARY,S2 961,0
+Maserati,MC12 Versione Corsa ,2008," 2,500,000 ","Autoshow, Wheelspin",LEGENDARY,S2 961,1
 Maserati,Gran Turismo S ,2010," 156,000 ","Autoshow, Wheelspin",EPIC,A 702,
 Maserati,Gran Turismo S Forza Edition ,2010," 500,000 ",Wheelspin,FORZA EDITION,S1 900,
 Maserati,Levante S ,2017," 85,000 ","Autoshow, Wheelspin",COMMON,B 696,
