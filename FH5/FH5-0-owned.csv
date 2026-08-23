@@ -7,7 +7,7 @@ Acura,Integra Type-R ,2001," 25,000 ",Autoshow,COMMON,C 596,
 Acura,RSX Type-S ,2002," 25,000 ",Autoshow,COMMON,C 585,
 Acura,NSX ,2017," 170,000 ",Autoshow,RARE,S1 831,
 Alfa Romeo,Giulia Sprint GTA Stradale ,1965," 300,000 ",Autoshow,RARE,D 486,
-Alfa Romeo,Giulia TZ2 ,1965," 4,000,000 ",Autoshow,LEGENDARY,B 641,0
+Alfa Romeo,Giulia TZ2 ,1965," 4,000,000 ",Autoshow,LEGENDARY,B 641,1
 Alfa Romeo,33 Stradale ,1968," 15,000,000 ",Autoshow,LEGENDARY,A 707,0
 Alfa Romeo,155 Q4 ,1992," 250,000 ","""Hard to Find""",COMMON,C 561,
 Alfa Romeo,8C Competizione ,2007," 300,000 ","""Hard to Find""",EPIC,A 755,1
@@ -70,12 +70,12 @@ Audi,RS 6 Avant ,2021," 250,000 ","""Hard to Find""",RARE,A 763,1
 Audi,RS 7 Sportback ,2021," 250,000 ","""Hard to Find""",RARE,A 768,1
 Audi,RS e-tron GT ,2021," 250,000 ","""Hard to Find""",EPIC,A 770,
 Austin-Healey,Sprite MkI ,1958," 20,000 ","Autoshow, Wheelspin",COMMON,D 131,
-Auto Union,Type D ,1939," 15,000,000 ","Autoshow, ""Fairy Tale Ending"" accolade",LEGENDARY,B 675,0
+Auto Union,Type D ,1939," 15,000,000 ","Autoshow, ""Fairy Tale Ending"" accolade",LEGENDARY,B 675,1
 Automobili Pininfarina,Battista ,2020," 2,500,000 ",Autoshow (DLC: European Automotive Car Pack),LEGENDARY,S2 928,-
 Autozam,AZ-1 ,1993," 25,000 ",Autoshow (DLC: JDM Jewels Car Pack),RARE,D 450,
 BAC,Mono ,2014," 160,000 ","Wheelspin, ""Wanderer"" accolade",EPIC,S1 868,
 Bentley,8 Litre ,1930," 1,500,000 ","Autoshow, Wheelspin",LEGENDARY,D 181,
-Bentley,Blower 4-1/2 Litre Supercharged ,1931," 4,000,000 ","Autoshow, Wheelspin",LEGENDARY,D 207,0
+Bentley,Blower 4-1/2 Litre Supercharged ,1931," 4,000,000 ","Autoshow, Wheelspin",LEGENDARY,D 207,1
 Bentley,Turbo R ,1991," 250,000 ","""Hard to Find""",RARE,C 543,
 Bentley,Bentayga ,2016," 180,000 ","Autoshow, Wheelspin",EPIC,A 727,
 Bentley,Continental Supersports ,2017," 200,000 ","Autoshow, Wheelspin",EPIC,A 769,
@@ -122,7 +122,7 @@ Brabham,BT62 ,2019," 1,500,000 ","HW Academy: ""Double Trouble"", Autoshow (DLC:
 Bugatti,Type 35 C ,1926," 1,300,000 ","Autoshow, Wheelspin",LEGENDARY,D 285,
 Bugatti,EB110 Super Sport ,1992," 1,700,000 ","Autoshow, Wheelspin",LEGENDARY,S1 805,
 Bugatti,Veyron Super Sport ,2011," 2,200,000 ","Autoshow, ""Like a Boss"" accolade",LEGENDARY,S2 913,
-Bugatti,Chiron ,2018," 2,400,000 ","Autoshow, Wheelspin",LEGENDARY,S2 927,0
+Bugatti,Chiron ,2018," 2,400,000 ","Autoshow, Wheelspin",LEGENDARY,S2 927,1
 Bugatti,Divo ,2019," 3,000,000 ","Autoshow, Wheelspin",LEGENDARY,S2 958,
 Buick,GSX ,1970," 80,000 ","Autoshow, Wheelspin",RARE,C 558,
 Buick,Regal GNX ,1987," 130,000 ","Autoshow, Wheelspin",RARE,C 564,
@@ -220,7 +220,7 @@ Extreme E,#5 Veloce Racing ,2022," 700,000 ","""Hard to Find""",RARE,A 748,1
 Extreme E,#55 ACCIONA | Sainz XE Team ,2022," 700,000 ","""Hard to Find""",RARE,A 748,1
 Extreme E,#58 McLaren Racing ,2022," 700,000 ","""Hard to Find""",RARE,A 748,1
 Extreme E,#6 Rosberg X Racing ,2022," 700,000 ","""Hard to Find""",RARE,A 748,1
-Extreme E,#99 Chip Ganassi Racing GMC Hummer EV ,2022," 700,000 ",Autoshow,RARE,A 748,0
+Extreme E,#99 Chip Ganassi Racing GMC Hummer EV ,2022," 700,000 ",Autoshow,RARE,A 748,1
 Fast and Furious,Chevrolet Impala Super Sport 'Fast X' ,1966," 300,000 ",Autoshow (DLC: Fast X Car Pack),LEGENDARY,S1 836,-
 Fast and Furious,Dodge Charger 'Fast X' ,1970," 300,000 ",Autoshow (DLC: Fast X Car Pack),LEGENDARY,S1 855,-
 Fast and Furious,Datsun 240Z 'Fast X' ,1973," 300,000 ",Autoshow (DLC: Fast X Car Pack),LEGENDARY,S1 838,-
@@ -249,11 +249,11 @@ Ferrari,430 Scuderia ,2007," 300,000 ","Autoshow, Wheelspin, ""'A' Class Elite""
 Ferrari,458 Italia ,2009," 225,000 ","Autoshow, Wheelspin",EPIC,S1 823,
 Ferrari,599 GTO ,2010," 350,000 ","""Hard to Find""",EPIC,S1 828,1
 Ferrari,599XX ,2010," 2,000,000 ",Autoshow,LEGENDARY,S2 924,
-Ferrari,599XX Evolution ,2012," 2,600,000 ","Autoshow, Wheelspin",LEGENDARY,S2 952,0
+Ferrari,599XX Evolution ,2012," 2,600,000 ","Autoshow, Wheelspin",LEGENDARY,S2 952,1
 Ferrari,458 Speciale ,2013," 340,000 ",Wheelspin,EPIC,S1 865,
 Ferrari,LaFerrari ,2013," 1,500,000 ",Car Collector: Ferrari,LEGENDARY,S2 934,
 Ferrari,California T ,2014," 250,000 ","""Hard to Find""",EPIC,A 784,1
-Ferrari,FXX K ,2014," 2,700,000 ","Autoshow, Wheelspin",LEGENDARY,S2 979,0
+Ferrari,FXX K ,2014," 2,700,000 ","Autoshow, Wheelspin",LEGENDARY,S2 979,1
 Ferrari,488 GTB ,2015," 290,000 ","Autoshow, Wheelspin",EPIC,S1 863,
 Ferrari,F12tdf ,2015," 500,000 ","Autoshow, Wheelspin",EPIC,S1 884,
 Ferrari,#25 Corse Clienti 488 Challenge ,2017," 400,000 ",Autoshow (DLC: Car Pass),EPIC,S2 911,
@@ -318,7 +318,7 @@ Ford,Crown Victoria Police Interceptor ,2010," 25,000 ","Autoshow, Wheelspin",CO
 Ford,F-150 SVT Raptor ,2011," 42,000 ","Autoshow, Wheelspin",RARE,C 518,
 Ford,Transit SuperSportVan ,2011," 50,000 ","Autoshow, Wheelspin",RARE,D 347,
 Ford,Shelby GT500 ,2013," 115,000 ","Autoshow, Wheelspin",RARE,A 756,
-Ford,#11 Rockstar F-150 Trophy Truck ,2014," 500,000 ","Autoshow, Wheelspin",EPIC,A 731,0
+Ford,#11 Rockstar F-150 Trophy Truck ,2014," 500,000 ","Autoshow, Wheelspin",EPIC,A 731,1
 Ford,Fiesta ST ,2014," 25,000 ","Autoshow, Wheelspin",COMMON,B 607,
 Ford,FPV Limited Edition Pursuit Ute ,2014," 50,000 ","Autoshow, Wheelspin",COMMON,B 685,
 Ford,Ranger T6 Rally Raid ,2014," 250,000 ","Autoshow, Wheelspin, ""Success Kid"" accolade",EPIC,B 643,
@@ -332,8 +332,8 @@ Ford,Focus RS ,2017," 59,000 ","Autoshow, Wheelspin, ""First Few Miles"" accolad
 Ford,GT ,2017," 400,000 ","Autoshow, ""To The Zoom!"" accolade",EPIC,S1 863,
 Ford,GT 'OPI Edition' ,2017," 400,000 ",Gifted (Promotional: OPI),EPIC,S1 900,-
 Ford,M-Sport Fiesta RS ,2017," 500,000 ","Autoshow, Wheelspin, ""Lucha de Carreteras!"" accolade",EPIC,S1 808,
-Ford,#25 Mustang RTR ,2018," 500,000 ","Autoshow, Wheelspin",EPIC,S1 834,0
-Ford,#88 Mustang RTR ,2018," 500,000 ","Autoshow, Wheelspin",EPIC,S1 834,0
+Ford,#25 Mustang RTR ,2018," 500,000 ","Autoshow, Wheelspin",EPIC,S1 834,1
+Ford,#88 Mustang RTR ,2018," 500,000 ","Autoshow, Wheelspin",EPIC,S1 834,1
 Ford,Mustang GT ,2018," 40,000 ","Autoshow, Wheelspin",COMMON,A 756,
 Ford,Mustang RTR Spec 5 ,2018," 105,000 ","Autoshow, Wheelspin",RARE,A 757,
 Ford,Ranger Raptor ,2019," 58,000 ",Wheelspin,EPIC,D 451,
@@ -413,7 +413,7 @@ Hoonigan,Chevrolet Napalm Nova ,1972," 50,000 ","Autoshow, Wheelspin",RARE,A 731
 Hoonigan,Volkswagen Baja Beetle Class 5/1600 'Scumbug' ,1973," 300,000 ","Horizon Raptors: Win ""Cascade Fuerte"", Autoshow (DLC: Rally Adventure)",RARE,C 524,
 Hoonigan,Ford Escort RS1800 ,1978," 300,000 ","Autoshow, Wheelspin",EPIC,S1 820,
 Hoonigan,Ford RS200 Evolution ,1986," 500,000 ","Autoshow, Wheelspin",EPIC,S2 904,
-Hoonigan,Gymkhana 10 Ford Escort Cosworth Group A ,1991," 500,000 ","Autoshow, Wheelspin",EPIC,S1 862,0
+Hoonigan,Gymkhana 10 Ford Escort Cosworth Group A ,1991," 500,000 ","Autoshow, Wheelspin",EPIC,S1 862,1
 Hoonigan,Rauh-Welt Begriff Porsche 911 Turbo ,1991," 160,000 ",Car Mastery: 1995 Porsche 911 GT2,RARE,S1 811,
 Hoonigan,Mazda RX-7 Twerkstallion ,1992," 50,000 ",Car Mastery: 1990 Mazda Savanna RX-7,RARE,A 799,
 Hoonigan,"Ford Escort Cosworth WRC ""Cossie V2"" ",1994," 500,000 ","Autoshow, ""On a Wing and a Prayer"" Showcase reward",EPIC,A 783,
@@ -445,7 +445,7 @@ International,Scout 800A ,1970," 40,000 ","Autoshow, Wheelspin",COMMON,D 384,
 Italdesign,Zerouno ,2018," 2,400,000 ",Autoshow,LEGENDARY,S1 869,1
 Italdesign,DaVinci Concept ,2019," 150,000 ",Autoshow (DLC: Italian Exotics Car Pack),RARE,S1 809,-
 Jaguar,C-Type ,1953," 5,000,000 ",Autoshow,LEGENDARY,C 599,0
-Jaguar,D-Type ,1956," 22,000,000 ","Autoshow, Wheelspin, ""Sold Out"" accolade",LEGENDARY,B 630,0
+Jaguar,D-Type ,1956," 22,000,000 ","Autoshow, Wheelspin, ""Sold Out"" accolade",LEGENDARY,B 630,1
 Jaguar,Mk II 3.8 ,1959," 80,000 ",Autoshow,EPIC,D 448,
 Jaguar,E-type ,1961," 150,000 ",Autoshow,EPIC,C 525,
 Jaguar,Lightweight E-Type ,1964," 7,500,000 ",Autoshow,LEGENDARY,B 688,
