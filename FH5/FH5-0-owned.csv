@@ -27,7 +27,7 @@ Apollo,"Intensa Emozione ""Welcome Pack"" ",2018," 1,500,000 ",Autoshow (DLC: We
 Ariel,Atom 500 V8 ,2013," 200,000 ","Autoshow, Wheelspin",EPIC,S2 924,
 Ariel,Nomad ,2016," 93,000 ","Autoshow, Wheelspin",RARE,A 711,
 Ascari,KZ1R ,2012," 250,000 ","""Hard to Find""",EPIC,S1 829,1
-Aston Martin,DBR1 ,1958," 22,500,000 ",Autoshow,LEGENDARY,B 678,0
+Aston Martin,DBR1 ,1958," 22,500,000 ",Autoshow,LEGENDARY,B 678,1
 Aston Martin,DB5 ,1964," 800,000 ","Autoshow, Wheelspin",EPIC,C 548,
 Aston Martin,Lagonda ,1990," 250,000 ","""Hard to Find""",RARE,C 502,1
 Aston Martin,DBS ,2008," 325,000 ","""Hard to Find""",EPIC,A 746,1
@@ -118,7 +118,7 @@ BMW,i4 eDrive40 ,2022," 250,000 ","""Hard to Find""",RARE,B 633,1
 BMW,iX xDrive50 ,2022," 250,000 ","""Hard to Find""",RARE,A 703,1
 BMW,M5 CS ,2022," 250,000 ","""Hard to Find""",RARE,S1 827,1
 BMW,M2 ,2023," 250,000 ","""Hard to Find""",RARE,A 762,
-Brabham,BT62 ,2019," 1,500,000 ","HW Academy: ""Double Trouble"", Autoshow (DLC: Hot Wheels)",LEGENDARY,S2 974,0
+Brabham,BT62 ,2019," 1,500,000 ","HW Academy: ""Double Trouble"", Autoshow (DLC: Hot Wheels)",LEGENDARY,S2 974,1
 Bugatti,Type 35 C ,1926," 1,300,000 ","Autoshow, Wheelspin",LEGENDARY,D 285,
 Bugatti,EB110 Super Sport ,1992," 1,700,000 ","Autoshow, Wheelspin",LEGENDARY,S1 805,
 Bugatti,Veyron Super Sport ,2011," 2,200,000 ","Autoshow, ""Like a Boss"" accolade",LEGENDARY,S2 913,
@@ -384,7 +384,7 @@ HDT,VK Commodore Group A ,1985," 250,000 ","""Hard to Find""",RARE,C 550,
 Hennessey,Venom GT ,2012," 1,200,000 ","Autoshow, Wheelspin",LEGENDARY,S2 911,
 Hennessey,Camaro Exorcist ,2019," 250,000 ","""A New Era"" accolade",LEGENDARY,S1 857,
 Hennessey,VelociRaptor 6x6 ,2019," 350,000 ","Autoshow, Wheelspin",LEGENDARY,B 634,
-Hennessey,Venom F5 ,2021," 3,000,000 ","HW Academy: ""Fresh Orange Routes"", Autoshow (DLC: Hot Wheels)",LEGENDARY,S2 964,0
+Hennessey,Venom F5 ,2021," 3,000,000 ","HW Academy: ""Fresh Orange Routes"", Autoshow (DLC: Hot Wheels)",LEGENDARY,S2 964,1
 Hennessey,Mammoth 1000 6x6 TRX ,2022," 450,000 ","""Starting the Journey"" accolade",LEGENDARY,B 697,1
 Holden,HQ Monaro GTS 350 ,1973," 75,000 ","Autoshow, Wheelspin",COMMON,C 525,
 Holden,Sandman HQ Panelvan ,1974," 55,000 ","Autoshow, Wheelspin",COMMON,C 501,
@@ -546,7 +546,7 @@ Lotus,2-Eleven ,2009," 250,000 ","""Hard to Find""",EPIC,A 799,
 Lotus,Exige S ,2012," 85,000 ","Autoshow, Wheelspin, ""Skillz"" accolade",RARE,A 754,
 Lotus,3-Eleven ,2016," 150,000 ","Autoshow, Wheelspin",EPIC,S1 839,
 Lotus,Exige Cup 430 ,2018," 250,000 ","""Halfway Point"" accolade",EPIC,S1 833,1
-Lotus,Evija ,2020," 2,500,000 ","Autoshow, ""Horizon Arcade Fan"" accolade",LEGENDARY,S2 994,0
+Lotus,Evija ,2020," 2,500,000 ","Autoshow, ""Horizon Arcade Fan"" accolade",LEGENDARY,S2 994,1
 Lotus,Emira ,2023," 95,000 ",Autoshow (DLC: Horizon Racing Car Pack),RARE,A 767,-
 Lucid,Air Sapphire ,2023," 250,000 ","""Hard to Find""",RARE,S1 884,1
 Lynk & Co,#100 Cyan Racing 03 ,2020," 250,000 ","""Hard to Find""",RARE,A 800,1
@@ -809,7 +809,7 @@ Schuppan,962CR ,1993," 2,500,000 ","HW Academy: ""Great Expertations"", Autoshow
 Shelby,Cobra 427 S/C ,1965," 2,100,000 ","Autoshow, Wheelspin",LEGENDARY,B 694,
 Shelby,Cobra Daytona Coupé ,1965," 30,000,000 ","Autoshow, Wheelspin, ""The One With the Hairy Chest"" accolade",LEGENDARY,B 637,
 Shelby,GT 500 ,1967," 250,000 ",Autoshow (DLC: Acceleration Car Pack),EPIC,C 577,-
-SIERRA Cars,#23 Yokohama Alpha ,2020," 70,000 ","HW Academy: ""Hot Wheels Legend"", Autoshow (DLC: Hot Wheels)",EPIC,S2 986,0
+SIERRA Cars,#23 Yokohama Alpha ,2020," 70,000 ","HW Academy: ""Hot Wheels Legend"", Autoshow (DLC: Hot Wheels)",EPIC,S2 986,1
 SIERRA Cars,700R ,2021," 250,000 ","""Hard to Find""",RARE,D 414,1
 SIERRA Cars,RX3 ,2021," 45,000 ","Autoshow, ""Unbeatable Cross-Country Racing"" accolade",RARE,A 737,
 Spania GTA,GTA Spano ,2016," 800,000 ","""Hard to Find""",EPIC,S2 915,1
